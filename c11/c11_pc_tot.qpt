@@ -888,10 +888,10 @@
   <SnapLine y1="0" x1="0" y2="0" x2="0"/>
   <SnapLine y1="0" x1="0" y2="0" x2="0"/>
   <SnapLine y1="0" x1="0" y2="0" x2="0"/>
-  <ComposerLabel valign="32" labelText="Chou-fleur (Brassica oleracea variété botrytis)" htmlState="0" halign="1" margin="1">
+  <ComposerLabel valign="32" labelText="Persil (Petroselinum crispum)&#xa;Céleri (Apium graveolens)&#xa;Cresson (Nasturtium)" htmlState="0" halign="4" margin="1">
    <LabelFont description="Droid Sans [unknown],18,-1,5,75,0,0,0,0,0"/>
    <FontColor red="0" blue="0" green="0"/>
-   <ComposerItem width="150.111" x="0" transparency="0" y="12.736" height="9.74401" positionMode="0" frame="false" outlineWidth="0.3" zValue="10" itemRotation="0" lastValidViewScaleFactor="2.48144" uuid="{5a502072-6d66-4c3c-85bd-fe107103da0c}" id="" background="true" blendMode="0" positionLock="false">
+   <ComposerItem width="150.111" x="0" transparency="0" y="3.47417" height="26.1303" positionMode="0" frame="false" outlineWidth="0.3" zValue="10" itemRotation="0" lastValidViewScaleFactor="2.80722" uuid="{5a502072-6d66-4c3c-85bd-fe107103da0c}" id="" background="true" blendMode="0" positionLock="false">
     <FrameColor alpha="255" red="0" blue="0" green="0"/>
     <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
    </ComposerItem>
@@ -1049,15 +1049,15 @@
   <ComposerLabel valign="32" labelText="Part de la Surface Agricole Utilisée (SAU) par section communale (moyenne annuelle)" htmlState="0" halign="4" margin="1">
    <LabelFont description="Liberation Serif,16,-1,5,75,1,0,0,0,0"/>
    <FontColor red="0" blue="0" green="0"/>
-   <ComposerItem width="125.35" x="3.083" transparency="0" y="22.48" height="30" positionMode="0" frame="false" outlineWidth="0.3" zValue="4" itemRotation="0" lastValidViewScaleFactor="2.48144" uuid="{69ab3966-1f62-47fd-b1ed-69af067ac4cc}" id="" background="false" blendMode="0" positionLock="false">
+   <ComposerItem width="125.35" x="3.083" transparency="0" y="34.5916" height="30" positionMode="0" frame="false" outlineWidth="0.3" zValue="4" itemRotation="0" lastValidViewScaleFactor="2.80722" uuid="{69ab3966-1f62-47fd-b1ed-69af067ac4cc}" id="" background="false" blendMode="0" positionLock="false">
     <FrameColor alpha="255" red="0" blue="0" green="0"/>
     <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
    </ComposerItem>
   </ComposerLabel>
-  <ComposerLabel valign="32" labelText="Sources : &#xa;CNIGS 2012&#xa;IHSI, Atlas Censitaire 2003&#xa;MARNDR, RGA 2009&#xa;Image : Growing Cauliflower, Wikipédia Commons, CC0&#xa;Cartographie : Xavier Tardieu - Chibas" htmlState="0" halign="1" margin="1">
+  <ComposerLabel valign="64" labelText="Sources : &#xa;CNIGS 2012&#xa;IHSI, Atlas Censitaire 2003&#xa;MARNDR, RGA 2009&#xa;Cartographie : Xavier Tardieu - Chibas" htmlState="0" halign="1" margin="1">
    <LabelFont description="Droid Sans,10,-1,5,50,0,0,0,0,0"/>
    <FontColor red="0" blue="0" green="0"/>
-   <ComposerItem width="91.3297" x="-0.354987" transparency="0" y="187.384" height="28.516" positionMode="0" frame="false" outlineWidth="0.3" zValue="3" itemRotation="0" lastValidViewScaleFactor="2.48144" uuid="{03892959-70df-4f8e-90b4-bba7697219e6}" id="" background="true" blendMode="0" positionLock="false">
+   <ComposerItem width="91.3297" x="-0.354987" transparency="0" y="189.521" height="26.3787" positionMode="0" frame="false" outlineWidth="0.3" zValue="3" itemRotation="0" lastValidViewScaleFactor="2.80722" uuid="{03892959-70df-4f8e-90b4-bba7697219e6}" id="" background="true" blendMode="0" positionLock="false">
     <FrameColor alpha="255" red="0" blue="0" green="0"/>
     <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
    </ComposerItem>
