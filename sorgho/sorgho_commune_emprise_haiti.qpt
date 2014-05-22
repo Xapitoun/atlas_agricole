@@ -1,0 +1,268 @@
+<Composer title="sorgo_commune" visible="1">
+ <Composition printResolution="300" paperWidth="279.4" snapGridOffsetX="0" snapGridResolution="10" snapGridOffsetY="0" alignmentSnap="1" snapping="0" numPages="1" paperHeight="215.9" alignmentSnapTolerance="2" printAsRaster="0">
+  <ComposerMap keepLayerSet="true" overviewFrameMap="-1" id="1" previewMode="Cache" drawCanvasItems="true">
+   <overviewFrame overviewBlendMode="0" overviewFrameMap="-1" overviewInverted="false">
+    <symbol alpha="0.3" type="fill" name="">
+     <layer pass="0" class="SimpleFill" locked="0">
+      <prop k="border_width_unit" v="MM"/>
+      <prop k="color" v="186,221,105,255"/>
+      <prop k="color_border" v="128,152,72,255"/>
+      <prop k="offset" v="0,0"/>
+      <prop k="offset_unit" v="MM"/>
+      <prop k="style" v="solid"/>
+      <prop k="style_border" v="solid"/>
+      <prop k="width_border" v="0.26"/>
+     </layer>
+     <layer pass="0" class="PointPatternFill" locked="0">
+      <prop k="displacement_x" v="1"/>
+      <prop k="displacement_x_unit" v="MM"/>
+      <prop k="displacement_y" v="0"/>
+      <prop k="displacement_y_unit" v="MM"/>
+      <prop k="distance_x" v="2"/>
+      <prop k="distance_x_unit" v="MM"/>
+      <prop k="distance_y" v="2"/>
+      <prop k="distance_y_unit" v="MM"/>
+      <symbol alpha="1" type="marker" name="@@1">
+       <layer pass="0" class="SimpleMarker" locked="0">
+        <prop k="angle" v="0"/>
+        <prop k="color" v="255,0,0,255"/>
+        <prop k="color_border" v="87,104,49,255"/>
+        <prop k="name" v="line"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_unit" v="MM"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="scale_method" v="area"/>
+        <prop k="size" v="1"/>
+        <prop k="size_unit" v="MM"/>
+       </layer>
+      </symbol>
+     </layer>
+    </symbol>
+   </overviewFrame>
+   <Extent ymin="17.9336" xmin="-74.5271" ymax="20.5703" xmax="-71.2926"/>
+   <LayerSet>
+    <Layer>decoupage_communes20140124112416580</Layer>
+    <Layer>hti_boundaries_sections_communales_adm3_cnigs_polygon20140124111509320</Layer>
+   </LayerSet>
+   <Grid gridStyle="0" crossLength="3" intervalX="0" offsetX="0" intervalY="0" offsetY="0" gridFrameStyle="0" gridFrameWidth="2" gridBlendMode="0" show="0">
+    <symbol alpha="1" type="line" name="">
+     <layer pass="0" class="SimpleLine" locked="0">
+      <prop k="capstyle" v="flat"/>
+      <prop k="color" v="0,0,0,255"/>
+      <prop k="customdash" v="5;2"/>
+      <prop k="customdash_unit" v="MM"/>
+      <prop k="joinstyle" v="bevel"/>
+      <prop k="offset" v="0"/>
+      <prop k="offset_unit" v="MM"/>
+      <prop k="penstyle" v="solid"/>
+      <prop k="use_custom_dash" v="0"/>
+      <prop k="width" v="0.3"/>
+      <prop k="width_unit" v="MM"/>
+     </layer>
+    </symbol>
+    <Annotation rightDirection="0" bottomDirection="0" format="0" topPosition="1" precision="3" leftDirection="0" rightPosition="1" bottomPosition="1" frameDistance="1" show="0" font="Droid Sans,10,-1,5,50,0,0,0,0,0" leftPosition="1" topDirection="0">
+     <fontColor red="0" blue="0" green="0"/>
+    </Annotation>
+   </Grid>
+   <ComposerItem width="104.472" x="159.129" transparency="0" y="110.013" rotation="0" height="85.1634" positionMode="0" frame="false" outlineWidth="0.3" zValue="11" lastValidViewScaleFactor="2.89073" uuid="{166417af-3cbb-4b14-aa23-2dd41329dbb4}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerMap>
+  <ComposerLegend symbolWidth="7" title="Légende" boxSpace="2" splitLayer="0" equalColumnWidth="0" map="0" symbolHeight="4" wrapChar="" fontColor="#000000" columnSpace="2" columnCount="1">
+   <styles>
+    <style marginBottom="2" name="title" font="Droid Sans,16,-1,5,50,0,0,0,0,0"/>
+    <style marginTop="2" name="group" font="Droid Sans,14,-1,5,50,0,0,0,0,0"/>
+    <style marginTop="2" name="subgroup" font="Droid Sans,12,-1,5,50,0,0,0,0,0"/>
+    <style marginTop="2" name="symbol" font="Droid Sans,10,-1,5,50,0,0,0,0,0"/>
+    <style marginTop="2" marginLeft="2" name="symbolLabel" font="Droid Sans,12,-1,5,50,0,0,0,0,0"/>
+   </styles>
+   <Model autoUpdate="1">
+    <LayerItem layerId="sorgho_verettes20140123162044786" userText="pourcentage de sorgho" style="subgroup" text="pourcentage de sorgho" showFeatureCount="0">
+     <VectorClassificationItemNg userText="" text="&lt; 0 %">
+      <symbols>
+       <symbol alpha="1" type="fill" name="classificationSymbol">
+        <layer pass="0" class="SimpleFill" locked="0">
+         <prop k="border_width_unit" v="MM"/>
+         <prop k="color" v="255,255,255,255"/>
+         <prop k="color_border" v="0,0,0,255"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <prop k="style_border" v="solid"/>
+         <prop k="width_border" v="0.26"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+     <VectorClassificationItemNg userText="" text="0 % - 5 %">
+      <symbols>
+       <symbol alpha="1" type="fill" name="classificationSymbol">
+        <layer pass="0" class="SimpleFill" locked="0">
+         <prop k="border_width_unit" v="MM"/>
+         <prop k="color" v="212,238,206,255"/>
+         <prop k="color_border" v="0,0,0,255"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <prop k="style_border" v="solid"/>
+         <prop k="width_border" v="0.26"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+     <VectorClassificationItemNg userText="" text="5 % - 10 %">
+      <symbols>
+       <symbol alpha="1" type="fill" name="classificationSymbol">
+        <layer pass="0" class="SimpleFill" locked="0">
+         <prop k="border_width_unit" v="MM"/>
+         <prop k="color" v="157,215,152,255"/>
+         <prop k="color_border" v="0,0,0,255"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <prop k="style_border" v="solid"/>
+         <prop k="width_border" v="0.26"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+     <VectorClassificationItemNg userText="" text="10 % - 15 %">
+      <symbols>
+       <symbol alpha="1" type="fill" name="classificationSymbol">
+        <layer pass="0" class="SimpleFill" locked="0">
+         <prop k="border_width_unit" v="MM"/>
+         <prop k="color" v="84,180,102,255"/>
+         <prop k="color_border" v="0,0,0,255"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <prop k="style_border" v="solid"/>
+         <prop k="width_border" v="0.26"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+     <VectorClassificationItemNg userText="" text="15 % - 20 %">
+      <symbols>
+       <symbol alpha="1" type="fill" name="classificationSymbol">
+        <layer pass="0" class="SimpleFill" locked="0">
+         <prop k="border_width_unit" v="MM"/>
+         <prop k="color" v="29,134,64,255"/>
+         <prop k="color_border" v="0,0,0,255"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <prop k="style_border" v="solid"/>
+         <prop k="width_border" v="0.26"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+     <VectorClassificationItemNg userText="" text="> 20 %">
+      <symbols>
+       <symbol alpha="1" type="fill" name="classificationSymbol">
+        <layer pass="0" class="SimpleFill" locked="0">
+         <prop k="border_width_unit" v="MM"/>
+         <prop k="color" v="0,68,27,255"/>
+         <prop k="color_border" v="0,0,0,255"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <prop k="style_border" v="solid"/>
+         <prop k="width_border" v="0.26"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+    </LayerItem>
+   </Model>
+   <ComposerItem width="47.7172" x="12.8714" transparency="0" y="39.0505" rotation="0" height="55.4" positionMode="0" frame="false" outlineWidth="0.3" zValue="8" lastValidViewScaleFactor="2.89073" uuid="{29e172b9-0920-4584-a5e2-aaf548e8569a}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLegend>
+  <ComposerPicture pictureWidth="30" file="../../logo_chibas.png" pictureHeight="30" mapId="-1">
+   <ComposerItem width="30" x="2.06884" transparency="0" y="185.9" rotation="0" height="30" positionMode="0" frame="false" outlineWidth="0.3" zValue="7" lastValidViewScaleFactor="2.89995" uuid="{cdfd1b0a-6a98-44c9-9d14-fc4a3d1957ef}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerScaleBar brushColor="#000000" segmentMillimeters="27.8178" penColor="#000000" numMapUnitsPerScaleBarUnit="1000" numSegments="4" height="3" alignment="0" labelBarSpace="3" outlineWidth="1" units="1" numSegmentsLeft="0" style="Single Box" unitLabel=" km" fontColor="#000000" font="Droid Sans,12,-1,5,50,0,0,0,0,0" boxContentSpace="1" numUnitsPerSegment="3000">
+   <ComposerItem width="97.9" x="149.313" transparency="0" y="195.176" rotation="0" height="11.9" positionMode="0" frame="false" outlineWidth="0.3" zValue="6" lastValidViewScaleFactor="2.89995" uuid="{978b0579-5dc0-48d3-9ece-3e6c1a506fcf}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerScaleBar>
+  <ComposerArrow startMarkerFile="" arrowHeadWidth="4" endMarkerFile="" outlineWidth="1" markerMode="0">
+   <ArrowColor alpha="255" red="0" blue="0" green="0"/>
+   <StartPoint x="219.501" y="36.5505"/>
+   <StopPoint x="219.501" y="36.5505"/>
+   <ComposerItem width="5" x="217.001" transparency="0" y="34.0505" rotation="0" height="5" positionMode="0" frame="false" outlineWidth="0" zValue="5" lastValidViewScaleFactor="3.00642" uuid="{dfa369f5-72f7-4f84-98f7-cf2469ac6a0d}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="0" red="255" blue="255" green="255"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerArrow>
+  <ComposerLabel valign="32" labelText="Proportion de la Surface Agricole Utilisée en sorgho dans la commune de Limonade (moyenne annuelle)" htmlState="0" halign="4" margin="1">
+   <LabelFont description="Droid Sans [unknown],22,-1,5,75,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="208.03" x="39.1832" transparency="0" y="3.26852" rotation="0" height="26.1358" positionMode="0" frame="false" outlineWidth="0.3" zValue="4" lastValidViewScaleFactor="2.89073" uuid="{d6b7aabe-5676-4d7c-b1ac-d4553584fa88}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="32" labelText="Sources : &#xa;Délimitations administratives : CNIGS &#xa;Données : Recensement général Agricole (2009-2010), MARNDR" htmlState="0" halign="1" margin="1">
+   <LabelFont description="Cantarell,10,-1,5,50,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="102.97" x="36.73" transparency="0" y="192.348" rotation="0" height="23.5518" positionMode="0" frame="false" outlineWidth="0.3" zValue="3" lastValidViewScaleFactor="2.89073" uuid="{7ff7d2d4-f134-4403-8c49-f27a35b506cf}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerMap keepLayerSet="true" overviewFrameMap="-1" id="0" previewMode="Cache" drawCanvasItems="true">
+   <overviewFrame overviewBlendMode="0" overviewFrameMap="-1" overviewInverted="false">
+    <symbol alpha="0.3" type="fill" name="">
+     <layer pass="0" class="SimpleFill" locked="0">
+      <prop k="border_width_unit" v="MM"/>
+      <prop k="color" v="255,0,0,255"/>
+      <prop k="color_border" v="0,0,0,255"/>
+      <prop k="offset" v="0,0"/>
+      <prop k="offset_unit" v="MM"/>
+      <prop k="style" v="solid"/>
+      <prop k="style_border" v="no"/>
+      <prop k="width_border" v="0.26"/>
+     </layer>
+    </symbol>
+   </overviewFrame>
+   <Extent ymin="19.5847" xmin="-72.2345" ymax="19.7931" xmax="-71.9785"/>
+   <LayerSet>
+    <Layer>sorgho_limonade20140123161934836</Layer>
+   </LayerSet>
+   <Grid gridStyle="0" crossLength="3" intervalX="0" offsetX="0" intervalY="0" offsetY="0" gridFrameStyle="0" gridFrameWidth="2" gridBlendMode="0" show="0">
+    <symbol alpha="1" type="line" name="">
+     <layer pass="0" class="SimpleLine" locked="0">
+      <prop k="capstyle" v="flat"/>
+      <prop k="color" v="0,0,0,255"/>
+      <prop k="customdash" v="5;2"/>
+      <prop k="customdash_unit" v="MM"/>
+      <prop k="joinstyle" v="bevel"/>
+      <prop k="offset" v="0"/>
+      <prop k="offset_unit" v="MM"/>
+      <prop k="penstyle" v="solid"/>
+      <prop k="use_custom_dash" v="0"/>
+      <prop k="width" v="0.3"/>
+      <prop k="width_unit" v="MM"/>
+     </layer>
+    </symbol>
+    <Annotation rightDirection="0" bottomDirection="0" format="0" topPosition="1" precision="3" leftDirection="0" rightPosition="1" bottomPosition="1" frameDistance="1" show="0" font="Droid Sans,10,-1,5,50,0,0,0,0,0" leftPosition="1" topDirection="0">
+     <fontColor red="0" blue="0" green="0"/>
+    </Annotation>
+   </Grid>
+   <ComposerItem width="156" x="47.4086" transparency="0" y="34.0505" rotation="0" height="127" positionMode="0" frame="false" outlineWidth="0.3" zValue="1" lastValidViewScaleFactor="2.89073" uuid="{227dc792-7dcd-4f98-9387-69b1a3094362}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerMap>
+ </Composition>
+</Composer>

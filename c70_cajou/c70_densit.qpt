@@ -1,0 +1,330 @@
+<Composer title="s_tot" visible="1">
+ <Composition snapGridTolerance="2" gridVisible="1" printResolution="300" paperWidth="279.4" snapGridOffsetX="0" guidesVisible="1" snapGridResolution="10" snapGridOffsetY="0" alignmentSnap="1" snapping="0" numPages="1" paperHeight="215.9" alignmentSnapTolerance="2" smartGuides="1" printAsRaster="0" generateWorldFile="0">
+  <symbol alpha="1" type="fill" name="">
+   <layer pass="0" class="SimpleFill" locked="0">
+    <prop k="border_width_unit" v="MM"/>
+    <prop k="color" v="255,255,255,255"/>
+    <prop k="color_border" v="0,0,0,255"/>
+    <prop k="offset" v="0,0"/>
+    <prop k="offset_unit" v="MM"/>
+    <prop k="style" v="solid"/>
+    <prop k="style_border" v="no"/>
+    <prop k="width_border" v="0.26"/>
+   </layer>
+  </symbol>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <ComposerLabel valign="32" labelText="Anacardier (Anacardium occidentale)" htmlState="0" halign="1" margin="1">
+   <LabelFont description="Droid Sans [unknown],18,-1,5,75,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="123.58" x="6.26935" transparency="0" y="6.04488" height="12.1389" positionMode="0" frame="false" outlineWidth="0.3" zValue="12" itemRotation="0" lastValidViewScaleFactor="2.48144" uuid="{2a53bee1-8b85-4fcc-ac82-d3b50d368a67}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerPicture pictureRotation="0" pictureWidth="30" file="./Licence_Art_Libre.svg" pictureHeight="10.6267" mapId="-1">
+   <ComposerItem width="30" x="133.09" transparency="0" y="204" height="11.9" positionMode="0" frame="false" outlineWidth="0.3" zValue="11" itemRotation="0" lastValidViewScaleFactor="2.48144" uuid="{a16f5ec2-509d-48e8-b27e-fd04b6db64ea}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerPicture pictureRotation="0" pictureWidth="47.5141" file="./type_culture/c70_cajou/364px-Acajou,_Nordisk_familjebok.png" pictureHeight="62.656" mapId="-1">
+   <ComposerItem width="62.6332" x="64.2165" transparency="0" y="41.5637" height="62.656" positionMode="0" frame="false" outlineWidth="0.3" zValue="10" itemRotation="0" lastValidViewScaleFactor="2.48144" uuid="{7e4000a5-6607-457d-8846-5755da766abc}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerPicture pictureRotation="0" pictureWidth="30" file="./logo_uniq.png" pictureHeight="12.6984" mapId="-1">
+   <ComposerItem width="30" x="249.4" transparency="0" y="0" height="30" positionMode="0" frame="false" outlineWidth="0.3" zValue="9" itemRotation="0" lastValidViewScaleFactor="2.48144" uuid="{69fa4c3d-00f7-455c-b43d-552ab1a6964e}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerScaleBar penColor="#000000" style="Single Box" numMapUnitsPerScaleBarUnit="1000" alignment="0" brushColor="#000000" numSegments="4" segmentMillimeters="17.9173" fontColor="#000000" font="Droid Sans,12,-1,5,50,0,0,0,0,0" numUnitsPerSegment="25000" units="1" labelBarSpace="3" outlineWidth="1" numSegmentsLeft="0" height="3" mapId="0" boxContentSpace="1" unitLabel=" km">
+   <ComposerItem width="88.3208" x="185.942" transparency="0" y="204" height="11.9" positionMode="0" frame="false" outlineWidth="0.3" zValue="8" itemRotation="0" lastValidViewScaleFactor="2.48144" uuid="{722c510d-c63f-452c-9bcd-18a714804cb8}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerScaleBar>
+  <ComposerLegend symbolWidth="7" title="Légende" boxSpace="2" splitLayer="0" equalColumnWidth="0" map="0" symbolHeight="4" wmsLegendHeight="25" wrapChar="" fontColor="#000000" columnSpace="2" wmsLegendWidth="50" columnCount="1">
+   <styles>
+    <style marginBottom="2" name="title" font="Droid Sans,16,-1,5,50,0,0,0,0,0"/>
+    <style marginTop="2" name="group" font="Droid Sans,14,-1,5,50,0,0,0,0,0"/>
+    <style marginTop="2" name="subgroup" font="Droid Sans,12,-1,5,50,0,0,0,0,0"/>
+    <style marginTop="2" name="symbol" font="Droid Sans,10,-1,5,50,0,0,0,0,0"/>
+    <style marginTop="2" marginLeft="2" name="symbolLabel" font="Droid Sans,12,-1,5,50,0,0,0,0,0"/>
+   </styles>
+   <Model autoUpdate="1">
+    <LayerItem layerId="section_comm_métrique20140515142803790" userText="" style="subgroup" text="Densité d’arbres/ca" showFeatureCount="0">
+     <VectorClassificationItemNg userText="" text="0">
+      <symbols>
+       <symbol alpha="1" type="fill" name="classificationSymbol">
+        <layer pass="0" class="SimpleFill" locked="0">
+         <prop k="border_width_unit" v="MM"/>
+         <prop k="color" v="255,255,255,255"/>
+         <prop k="color_border" v="0,0,0,255"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <prop k="style_border" v="solid"/>
+         <prop k="width_border" v="0.26"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+     <VectorClassificationItemNg userText="" text="0 - 0.07">
+      <symbols>
+       <symbol alpha="1" type="fill" name="classificationSymbol">
+        <layer pass="0" class="SimpleFill" locked="0">
+         <prop k="border_width_unit" v="MM"/>
+         <prop k="color" v="233,255,227,255"/>
+         <prop k="color_border" v="0,0,0,255"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <prop k="style_border" v="solid"/>
+         <prop k="width_border" v="0.26"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+     <VectorClassificationItemNg userText="" text="0.07 - 0.23">
+      <symbols>
+       <symbol alpha="1" type="fill" name="classificationSymbol">
+        <layer pass="0" class="SimpleFill" locked="0">
+         <prop k="border_width_unit" v="MM"/>
+         <prop k="color" v="113,246,84,255"/>
+         <prop k="color_border" v="0,0,0,255"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <prop k="style_border" v="solid"/>
+         <prop k="width_border" v="0.26"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+     <VectorClassificationItemNg userText="" text="0.23 - 0.56">
+      <symbols>
+       <symbol alpha="1" type="fill" name="classificationSymbol">
+        <layer pass="0" class="SimpleFill" locked="0">
+         <prop k="border_width_unit" v="MM"/>
+         <prop k="color" v="0,229,0,255"/>
+         <prop k="color_border" v="0,0,0,255"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <prop k="style_border" v="solid"/>
+         <prop k="width_border" v="0.26"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+     <VectorClassificationItemNg userText="" text="0.56 - 0.96">
+      <symbols>
+       <symbol alpha="1" type="fill" name="classificationSymbol">
+        <layer pass="0" class="SimpleFill" locked="0">
+         <prop k="border_width_unit" v="MM"/>
+         <prop k="color" v="4,168,19,255"/>
+         <prop k="color_border" v="0,0,0,255"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <prop k="style_border" v="solid"/>
+         <prop k="width_border" v="0.26"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+     <VectorClassificationItemNg userText="" text="0.96 - 1.73">
+      <symbols>
+       <symbol alpha="1" type="fill" name="classificationSymbol">
+        <layer pass="0" class="SimpleFill" locked="0">
+         <prop k="border_width_unit" v="MM"/>
+         <prop k="color" v="6,118,30,255"/>
+         <prop k="color_border" v="0,0,0,255"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <prop k="style_border" v="solid"/>
+         <prop k="width_border" v="0.26"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+     <VectorClassificationItemNg userText="" text="1.73 - 4.03">
+      <symbols>
+       <symbol alpha="1" type="fill" name="classificationSymbol">
+        <layer pass="0" class="SimpleFill" locked="0">
+         <prop k="border_width_unit" v="MM"/>
+         <prop k="color" v="5,80,35,255"/>
+         <prop k="color_border" v="0,0,0,255"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <prop k="style_border" v="solid"/>
+         <prop k="width_border" v="0.26"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+    </LayerItem>
+   </Model>
+   <ComposerItem width="40.4406" x="4.33018" transparency="0" y="41.5637" height="61.4" positionMode="0" frame="false" outlineWidth="0.3" zValue="7" itemRotation="0" lastValidViewScaleFactor="2.48144" uuid="{33eb49ba-b12b-4a24-8975-6b7d007fd507}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLegend>
+  <ComposerPicture pictureRotation="0" pictureWidth="30" file="./logo_chibas.png" pictureHeight="23.8209" mapId="-1">
+   <ComposerItem width="30" x="219.4" transparency="0" y="0" height="30" positionMode="0" frame="false" outlineWidth="0.3" zValue="6" itemRotation="0" lastValidViewScaleFactor="2.48144" uuid="{24c8a491-b241-4a57-9c3d-d3914115ae5a}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerArrow startMarkerFile="" arrowHeadWidth="4" endMarkerFile="" outlineWidth="1" markerMode="0">
+   <ArrowColor alpha="255" red="0" blue="0" green="0"/>
+   <StartPoint x="273.566" y="44.0637"/>
+   <StopPoint x="273.566" y="44.0637"/>
+   <ComposerItem width="5" x="271.066" transparency="0" y="41.5637" height="5" positionMode="0" frame="false" outlineWidth="0" zValue="5" itemRotation="0" lastValidViewScaleFactor="1.88976" uuid="{0374659e-8b2a-4592-a07c-75e0be92cc29}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="0" red="255" blue="255" green="255"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerArrow>
+  <ComposerLabel valign="32" labelText="Densité d’arbres en carreaux par section communale" htmlState="0" halign="4" margin="1">
+   <LabelFont description="Liberation Serif,14,-1,5,75,1,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="128.433" x="-1.5833" transparency="0" y="18.0119" height="23.5518" positionMode="0" frame="false" outlineWidth="0.3" zValue="4" itemRotation="0" lastValidViewScaleFactor="2.48144" uuid="{f2b748da-db03-40f6-af27-38a4058aa541}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="32" labelText="Sources des données et de l’image : &lt;ul>&lt;li>CNIGS 2012&lt;/li>&#xa;&lt;li>IHSI, Atlas Censitaire 2003&lt;/li>&#xa;&lt;li>MARNDR, RGA 2009&lt;/li>&#xa;&lt;li>https://commons.wikimedia.org/wiki/&#xa;File:Acajou,_Nordisk_familjebok.png (domaine public), via Wikimedia Commons&lt;/li>&lt;/ul>&#xa;Cartographie : &lt;ul>&lt;li>Xavier Tardieu&lt;/li>&lt;/ul>" htmlState="2" halign="1" margin="0">
+   <LabelFont description="Droid Sans,10,-1,5,50,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="75.089" x="-9.2029e-15" transparency="0" y="158.169" height="57.7313" positionMode="0" frame="false" outlineWidth="0.3" zValue="3" itemRotation="0" lastValidViewScaleFactor="2.48144" uuid="{52f21f6c-5b74-4545-8774-bc86f7552331}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerMap mapRotation="0" keepLayerSet="false" overviewFrameMap="-1" id="0" previewMode="Cache" drawCanvasItems="true">
+   <overviewFrame overviewBlendMode="0" overviewFrameMap="-1" overviewCentered="false" overviewInverted="false">
+    <symbol alpha="0.3" type="fill" name="">
+     <layer pass="0" class="SimpleFill" locked="0">
+      <prop k="border_width_unit" v="MM"/>
+      <prop k="color" v="255,0,0,255"/>
+      <prop k="color_border" v="0,0,0,255"/>
+      <prop k="offset" v="0,0"/>
+      <prop k="offset_unit" v="MM"/>
+      <prop k="style" v="solid"/>
+      <prop k="style_border" v="no"/>
+      <prop k="width_border" v="0.26"/>
+     </layer>
+    </symbol>
+   </overviewFrame>
+   <Extent ymin="1986024.20851629786193371" xmin="-8354319.28264723625034094" ymax="2287269.17050538584589958" xmax="-7964472.8612495930865407"/>
+   <LayerSet/>
+   <Grid gridStyle="0" crossLength="3" gridFramePenThickness="0.5" intervalX="0" offsetX="0" intervalY="0" offsetY="0" gridFrameStyle="0" gridFrameWidth="2" gridBlendMode="0" show="0">
+    <framePenColor alpha="255" red="0" blue="0" green="0"/>
+    <frameFillColor1 alpha="255" red="255" blue="255" green="255"/>
+    <frameFillColor2 alpha="255" red="0" blue="0" green="0"/>
+    <symbol alpha="1" type="line" name="">
+     <layer pass="0" class="SimpleLine" locked="0">
+      <prop k="capstyle" v="flat"/>
+      <prop k="color" v="0,0,0,255"/>
+      <prop k="customdash" v="5;2"/>
+      <prop k="customdash_unit" v="MM"/>
+      <prop k="draw_inside_polygon" v="0"/>
+      <prop k="joinstyle" v="bevel"/>
+      <prop k="offset" v="0"/>
+      <prop k="offset_unit" v="MM"/>
+      <prop k="penstyle" v="solid"/>
+      <prop k="use_custom_dash" v="0"/>
+      <prop k="width" v="0.3"/>
+      <prop k="width_unit" v="MM"/>
+     </layer>
+    </symbol>
+    <Annotation rightDirection="0" bottomDirection="0" format="0" topPosition="1" precision="3" leftDirection="0" rightPosition="1" bottomPosition="1" frameDistance="1" show="0" font="Droid Sans,10,-1,5,50,0,0,0,0,0" leftPosition="1" topDirection="0">
+     <fontColor alpha="255" red="0" blue="0" green="0"/>
+    </Annotation>
+   </Grid>
+   <AtlasMap fixedScale="0" atlasDriven="0" margin="0.10000000000000001"/>
+   <ComposerItem width="279.4" x="0" transparency="0" y="9.4304e-21" height="215.9" positionMode="0" frame="false" outlineWidth="0.3" zValue="2" itemRotation="0" lastValidViewScaleFactor="2.48144" uuid="{06965ba4-9527-4ad9-9a74-5f6beb688cdb}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerMap>
+  <ComposerLabel valign="32" labelText="Licence, logo uniq&#xa;CC-BY-NC-SA" htmlState="0" halign="1" margin="1">
+   <LabelFont description="Droid Sans,10,-1,5,50,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="74.9166" x="90.9747" transparency="0" y="185.369" height="20.3876" positionMode="0" frame="false" outlineWidth="0.3" zValue="1" itemRotation="0" lastValidViewScaleFactor="2.41691" uuid="{065e7783-ebb6-4012-92a7-ba8a8d295bc3}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+ </Composition>
+</Composer>

@@ -1,0 +1,637 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis projectname="" version="2.0.1-Dufour">
+    <title></title>
+    <mapcanvas>
+        <units>degrees</units>
+        <extent>
+            <xmin>-74.50659473494918927</xmin>
+            <ymin>17.89978366481308569</ymin>
+            <xmax>-71.50543345609922596</xmax>
+            <ymax>20.15935868798434427</ymax>
+        </extent>
+        <projections>0</projections>
+        <destinationsrs>
+            <spatialrefsys>
+                <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+                <srsid>3452</srsid>
+                <srid>4326</srid>
+                <authid>EPSG:4326</authid>
+                <description>WGS 84</description>
+                <projectionacronym>longlat</projectionacronym>
+                <ellipsoidacronym>WGS84</ellipsoidacronym>
+                <geographicflag>true</geographicflag>
+            </spatialrefsys>
+        </destinationsrs>
+    </mapcanvas>
+    <legend updateDrawingOrder="true" activeLayer="riz20131104145920805">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="riz" showFeatureCount="0">
+            <filegroup open="true" hidden="false">
+                <legendlayerfile isInOverview="0" layerid="riz20131104145920805" visible="1"/>
+            </filegroup>
+        </legendlayer>
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="hti_boundaries_sections_communales_adm3_cnigs_polygon" showFeatureCount="0">
+            <filegroup open="true" hidden="false">
+                <legendlayerfile isInOverview="0" layerid="hti_boundaries_sections_communales_adm3_cnigs_polygon20131031161828680" visible="1"/>
+            </filegroup>
+        </legendlayer>
+    </legend>
+    <Composer title="riz pc" visible="0">
+        <Composition printResolution="300" paperWidth="279.4" snapGridOffsetX="0" snapGridResolution="10" snapGridOffsetY="0" alignmentSnap="1" snapping="0" numPages="1" paperHeight="215.9" alignmentSnapTolerance="2" printAsRaster="0">
+            <ComposerLegend symbolWidth="7" title="Légende" boxSpace="2" splitLayer="0" equalColumnWidth="0" map="0" symbolHeight="4" wrapChar="" fontColor="#000000" columnSpace="2" columnCount="1">
+                <styles>
+                    <style marginBottom="2" name="title" font="Cantarell,16,-1,5,50,0,0,0,0,0"/>
+                    <style marginTop="2" name="group" font="Cantarell,14,-1,5,50,0,0,0,0,0"/>
+                    <style marginTop="2" name="subgroup" font="Cantarell,12,-1,5,50,0,0,0,0,0"/>
+                    <style marginTop="2" name="symbol" font="Cantarell,11,-1,5,50,0,0,0,0,0"/>
+                    <style marginTop="2" marginLeft="2" name="symbolLabel" font="Cantarell,12,-1,5,50,0,0,0,0,0"/>
+                </styles>
+                <Model autoUpdate="1">
+                    <LayerItem layerId="mais20131030215659470" userText="% de la SAU" style="subgroup" text="% de la SAU" showFeatureCount="0">
+                        <VectorClassificationItemNg userText="" text="&lt; 5 %">
+                            <symbols>
+                                <symbol alpha="1" type="fill" name="classificationSymbol">
+                                    <layer pass="0" class="SimpleFill" locked="0">
+                                        <prop k="border_width_unit" v="MM"/>
+                                        <prop k="color" v="255,255,255,255"/>
+                                        <prop k="color_border" v="0,0,0,255"/>
+                                        <prop k="offset" v="0,0"/>
+                                        <prop k="offset_unit" v="MM"/>
+                                        <prop k="style" v="solid"/>
+                                        <prop k="style_border" v="solid"/>
+                                        <prop k="width_border" v="0.26"/>
+                                    </layer>
+                                </symbol>
+                            </symbols>
+                        </VectorClassificationItemNg>
+                        <VectorClassificationItemNg userText="" text="5 % - 10 %">
+                            <symbols>
+                                <symbol alpha="1" type="fill" name="classificationSymbol">
+                                    <layer pass="0" class="SimpleFill" locked="0">
+                                        <prop k="border_width_unit" v="MM"/>
+                                        <prop k="color" v="203,241,194,255"/>
+                                        <prop k="color_border" v="0,0,0,255"/>
+                                        <prop k="offset" v="0,0"/>
+                                        <prop k="offset_unit" v="MM"/>
+                                        <prop k="style" v="solid"/>
+                                        <prop k="style_border" v="solid"/>
+                                        <prop k="width_border" v="0.26"/>
+                                    </layer>
+                                </symbol>
+                            </symbols>
+                        </VectorClassificationItemNg>
+                        <VectorClassificationItemNg userText="" text="10 % - 15 %">
+                            <symbols>
+                                <symbol alpha="1" type="fill" name="classificationSymbol">
+                                    <layer pass="0" class="SimpleFill" locked="0">
+                                        <prop k="border_width_unit" v="MM"/>
+                                        <prop k="color" v="105,168,91,255"/>
+                                        <prop k="color_border" v="0,0,0,255"/>
+                                        <prop k="offset" v="0,0"/>
+                                        <prop k="offset_unit" v="MM"/>
+                                        <prop k="style" v="solid"/>
+                                        <prop k="style_border" v="solid"/>
+                                        <prop k="width_border" v="0.26"/>
+                                    </layer>
+                                </symbol>
+                            </symbols>
+                        </VectorClassificationItemNg>
+                        <VectorClassificationItemNg userText="" text="15 % - 20 %">
+                            <symbols>
+                                <symbol alpha="1" type="fill" name="classificationSymbol">
+                                    <layer pass="0" class="SimpleFill" locked="0">
+                                        <prop k="border_width_unit" v="MM"/>
+                                        <prop k="color" v="82,214,77,255"/>
+                                        <prop k="color_border" v="0,0,0,255"/>
+                                        <prop k="offset" v="0,0"/>
+                                        <prop k="offset_unit" v="MM"/>
+                                        <prop k="style" v="solid"/>
+                                        <prop k="style_border" v="solid"/>
+                                        <prop k="width_border" v="0.26"/>
+                                    </layer>
+                                </symbol>
+                            </symbols>
+                        </VectorClassificationItemNg>
+                        <VectorClassificationItemNg userText="" text="20 % - 30 %">
+                            <symbols>
+                                <symbol alpha="1" type="fill" name="classificationSymbol">
+                                    <layer pass="0" class="SimpleFill" locked="0">
+                                        <prop k="border_width_unit" v="MM"/>
+                                        <prop k="color" v="5,138,17,255"/>
+                                        <prop k="color_border" v="0,0,0,255"/>
+                                        <prop k="offset" v="0,0"/>
+                                        <prop k="offset_unit" v="MM"/>
+                                        <prop k="style" v="solid"/>
+                                        <prop k="style_border" v="solid"/>
+                                        <prop k="width_border" v="0.26"/>
+                                    </layer>
+                                </symbol>
+                            </symbols>
+                        </VectorClassificationItemNg>
+                        <VectorClassificationItemNg userText="" text="30 % - 40 %">
+                            <symbols>
+                                <symbol alpha="1" type="fill" name="classificationSymbol">
+                                    <layer pass="0" class="SimpleFill" locked="0">
+                                        <prop k="border_width_unit" v="MM"/>
+                                        <prop k="color" v="170,170,0,255"/>
+                                        <prop k="color_border" v="0,0,0,255"/>
+                                        <prop k="offset" v="0,0"/>
+                                        <prop k="offset_unit" v="MM"/>
+                                        <prop k="style" v="solid"/>
+                                        <prop k="style_border" v="solid"/>
+                                        <prop k="width_border" v="0.26"/>
+                                    </layer>
+                                </symbol>
+                            </symbols>
+                        </VectorClassificationItemNg>
+                        <VectorClassificationItemNg userText="" text="40 % - 100 %">
+                            <symbols>
+                                <symbol alpha="1" type="fill" name="classificationSymbol">
+                                    <layer pass="0" class="SimpleFill" locked="0">
+                                        <prop k="border_width_unit" v="MM"/>
+                                        <prop k="color" v="5,80,35,255"/>
+                                        <prop k="color_border" v="0,0,0,255"/>
+                                        <prop k="offset" v="0,0"/>
+                                        <prop k="offset_unit" v="MM"/>
+                                        <prop k="style" v="solid"/>
+                                        <prop k="style_border" v="solid"/>
+                                        <prop k="width_border" v="0.26"/>
+                                    </layer>
+                                </symbol>
+                            </symbols>
+                        </VectorClassificationItemNg>
+                    </LayerItem>
+                </Model>
+                <ComposerItem width="38.0141" x="20.1385" transparency="0" y="30.458" rotation="0" height="63.1" positionMode="0" frame="false" outlineWidth="0.3" zValue="7" lastValidViewScaleFactor="3.01355" uuid="{03fa467f-f5df-47a2-855b-3d4de9da7a02}" id="" background="true" blendMode="0" positionLock="false">
+                    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+                    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+                </ComposerItem>
+            </ComposerLegend>
+            <ComposerLabel valign="32" labelText="Sources : &#xa;Délimitations administratives : CNIGS &#xa;Données : Recensement général Agricole, MARNDR" htmlState="0" halign="1" margin="1">
+                <LabelFont description="Sans,10,-1,5,50,0,0,0,0,0"/>
+                <FontColor red="0" blue="0" green="0"/>
+                <ComposerItem width="107.209" x="39.1456" transparency="0" y="196.719" rotation="0" height="15.584" positionMode="0" frame="false" outlineWidth="0.3" zValue="6" lastValidViewScaleFactor="3.01355" uuid="{016fde89-7db1-404b-ba6f-8785e922ec04}" id="" background="true" blendMode="0" positionLock="false">
+                    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+                    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+                </ComposerItem>
+            </ComposerLabel>
+            <ComposerLabel valign="32" labelText="Proportion de la Surface Agricole Utilisée&#xa; en riz (moyenne annuelle)" htmlState="0" halign="1" margin="1">
+                <LabelFont description="Liberation Serif,16,-1,5,75,0,0,0,0,0"/>
+                <FontColor red="0" blue="0" green="0"/>
+                <ComposerItem width="111.179" x="5.905" transparency="0" y="4.30858" rotation="0" height="23.5518" positionMode="0" frame="false" outlineWidth="0.3" zValue="5" lastValidViewScaleFactor="3.01355" uuid="{2b277955-bbd0-4990-a05a-01724b46e13d}" id="" background="false" blendMode="0" positionLock="false">
+                    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+                    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+                </ComposerItem>
+            </ComposerLabel>
+            <ComposerArrow startMarkerFile="/usr/share/qgis/svg/arrows/Arrow_05.svg" arrowHeadWidth="7" endMarkerFile="" outlineWidth="14" markerMode="2">
+                <ArrowColor alpha="255" red="0" blue="0" green="0"/>
+                <StartPoint x="246.658" y="24.8154"/>
+                <StopPoint x="246.658" y="24.8154"/>
+                <ComposerItem width="21" x="236.158" transparency="0" y="14.3154" rotation="0" height="21" positionMode="0" frame="false" outlineWidth="0" zValue="4" lastValidViewScaleFactor="3.01355" uuid="{d410b912-6ce0-4433-ac7b-e855c8b10fed}" id="" background="true" blendMode="0" positionLock="false">
+                    <FrameColor alpha="0" red="255" blue="255" green="255"/>
+                    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+                </ComposerItem>
+            </ComposerArrow>
+            <ComposerScaleBar penColor="#000000" style="Single Box" numMapUnitsPerScaleBarUnit="1" alignment="0" brushColor="#000000" numSegments="4" segmentMillimeters="0" fontColor="#000000" font="Sans,12,-1,5,50,0,0,0,0,0" numUnitsPerSegment="0" units="1" labelBarSpace="3" outlineWidth="1" numSegmentsLeft="0" height="3" mapId="0" boxContentSpace="1" unitLabel=" m">
+                <ComposerItem width="13.4313" x="165.917" transparency="0" y="196.446" rotation="0" height="11.9" positionMode="0" frame="false" outlineWidth="0.3" zValue="3" lastValidViewScaleFactor="3.01355" uuid="{76661214-cabc-41fc-8b5e-d70fbe679085}" id="" background="true" blendMode="0" positionLock="false">
+                    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+                    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+                </ComposerItem>
+            </ComposerScaleBar>
+            <ComposerMap keepLayerSet="false" overviewFrameMap="-1" id="0" previewMode="Cache" drawCanvasItems="true">
+                <overviewFrame overviewBlendMode="0" overviewFrameMap="-1" overviewInverted="false">
+                    <symbol alpha="0.3" type="fill" name="">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="255,0,0,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="no"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </overviewFrame>
+                <Extent ymin="17.7444" xmin="-74.5152" ymax="20.3131" xmax="-71.5141"/>
+                <LayerSet/>
+                <Grid gridStyle="0" crossLength="3" intervalX="0" offsetX="0" intervalY="0" offsetY="0" gridFrameStyle="0" gridFrameWidth="2" gridBlendMode="0" show="0">
+                    <symbol alpha="1" type="line" name="">
+                        <layer pass="0" class="SimpleLine" locked="0">
+                            <prop k="capstyle" v="flat"/>
+                            <prop k="color" v="0,0,0,255"/>
+                            <prop k="customdash" v="5;2"/>
+                            <prop k="customdash_unit" v="MM"/>
+                            <prop k="joinstyle" v="bevel"/>
+                            <prop k="offset" v="0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="penstyle" v="solid"/>
+                            <prop k="use_custom_dash" v="0"/>
+                            <prop k="width" v="0.3"/>
+                            <prop k="width_unit" v="MM"/>
+                        </layer>
+                    </symbol>
+                    <Annotation rightDirection="0" bottomDirection="0" format="0" topPosition="1" precision="3" leftDirection="0" rightPosition="1" bottomPosition="1" frameDistance="1" show="0" font="Sans,10,-1,5,50,0,0,0,0,0" leftPosition="1" topDirection="0">
+                        <fontColor red="0" blue="0" green="0"/>
+                    </Annotation>
+                </Grid>
+                <ComposerItem width="243.008" x="3.65018" transparency="0" y="4.30858" rotation="0" height="207.994" positionMode="0" frame="false" outlineWidth="0.3" zValue="2" lastValidViewScaleFactor="3.01355" uuid="{dbfee408-e419-4fda-9960-941e889f5e93}" id="" background="true" blendMode="0" positionLock="false">
+                    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+                    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+                </ComposerItem>
+            </ComposerMap>
+        </Composition>
+    </Composer>
+    <projectlayers layercount="2">
+        <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" minLabelScale="0" maxLabelScale="1e+08" geometry="Polygon" type="vector" hasScaleBasedVisibilityFlag="0" scaleBasedLabelVisibilityFlag="0">
+            <id>hti_boundaries_sections_communales_adm3_cnigs_polygon20131031161828680</id>
+            <datasource>../../../../Téléchargements/CNIGS_limit_adm_2012/hti_boundaries_sections_communales_adm3_cnigs_polygon.shp</datasource>
+            <title></title>
+            <abstract></abstract>
+            <keywordList>
+                <value></value>
+            </keywordList>
+            <layername>hti_boundaries_sections_communales_adm3_cnigs_polygon</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+                    <srsid>3452</srsid>
+                    <srid>4326</srid>
+                    <authid>EPSG:4326</authid>
+                    <description>WGS 84</description>
+                    <projectionacronym>longlat</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>true</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <provider encoding="System">ogr</provider>
+            <previewExpression>COALESCE( "id_Section", '&lt;NULL>' )</previewExpression>
+            <vectorjoins>
+                <join joinFieldName="SECTION_CO" targetFieldName="id_Section" memoryCache="1" joinLayerId="riz20131104145920805"/>
+            </vectorjoins>
+            <renderer-v2 symbollevels="0" type="RuleRenderer">
+                <rules>
+                    <rule filter="riz_PC_MOYENNE &lt;= 0.05" symbol="0" label="&lt; 5 %"/>
+                    <rule filter="riz_PC_MOYENNE > 0.05 AND riz_PC_MOYENNE &lt;= 0.1" symbol="1" label="5 % - 10 %"/>
+                    <rule filter="riz_PC_MOYENNE > 0.1 AND riz_PC_MOYENNE &lt;= 0.15" symbol="2" label="10 % - 15 %"/>
+                    <rule filter="riz_PC_MOYENNE > 0.15 AND riz_PC_MOYENNE &lt;= 0.2" symbol="3" label="15 % - 20 %"/>
+                    <rule filter="riz_PC_MOYENNE > 0.2 AND riz_PC_MOYENNE &lt;= 0.3" symbol="4" label="20 % - 30 %"/>
+                    <rule filter="riz_PC_MOYENNE > 0.3 AND riz_PC_MOYENNE &lt;= 0.4" symbol="5" label="30 % - 40 %"/>
+                    <rule filter="riz_PC_MOYENNE > 0.4 AND riz_PC_MOYENNE &lt;= 1" symbol="6" label="40 % - 100 %"/>
+                </rules>
+                <symbols>
+                    <symbol alpha="1" type="fill" name="0">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="255,255,255,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="1">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="203,241,194,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="2">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="105,168,91,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="3">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="82,214,77,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="4">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="5,138,17,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="5">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="170,170,0,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                    <symbol alpha="1" type="fill" name="6">
+                        <layer pass="0" class="SimpleFill" locked="0">
+                            <prop k="border_width_unit" v="MM"/>
+                            <prop k="color" v="5,80,35,255"/>
+                            <prop k="color_border" v="0,0,0,255"/>
+                            <prop k="offset" v="0,0"/>
+                            <prop k="offset_unit" v="MM"/>
+                            <prop k="style" v="solid"/>
+                            <prop k="style_border" v="solid"/>
+                            <prop k="width_border" v="0.26"/>
+                        </layer>
+                    </symbol>
+                </symbols>
+            </renderer-v2>
+            <customproperties>
+                <property key="labeling" value="pal"/>
+                <property key="labeling/addDirectionSymbol" value="false"/>
+                <property key="labeling/angleOffset" value="0"/>
+                <property key="labeling/blendMode" value="0"/>
+                <property key="labeling/bufferBlendMode" value="0"/>
+                <property key="labeling/bufferColorA" value="255"/>
+                <property key="labeling/bufferColorB" value="255"/>
+                <property key="labeling/bufferColorG" value="255"/>
+                <property key="labeling/bufferColorR" value="255"/>
+                <property key="labeling/bufferDraw" value="false"/>
+                <property key="labeling/bufferJoinStyle" value="64"/>
+                <property key="labeling/bufferNoFill" value="false"/>
+                <property key="labeling/bufferSize" value="1"/>
+                <property key="labeling/bufferSizeInMapUnits" value="false"/>
+                <property key="labeling/bufferTransp" value="0"/>
+                <property key="labeling/centroidWhole" value="false"/>
+                <property key="labeling/decimals" value="3"/>
+                <property key="labeling/displayAll" value="false"/>
+                <property key="labeling/dist" value="0"/>
+                <property key="labeling/distInMapUnits" value="false"/>
+                <property key="labeling/enabled" value="false"/>
+                <property key="labeling/fieldName" value=""/>
+                <property key="labeling/fontBold" value="false"/>
+                <property key="labeling/fontCapitals" value="0"/>
+                <property key="labeling/fontFamily" value="Sans"/>
+                <property key="labeling/fontItalic" value="false"/>
+                <property key="labeling/fontLetterSpacing" value="0"/>
+                <property key="labeling/fontLimitPixelSize" value="false"/>
+                <property key="labeling/fontMaxPixelSize" value="10000"/>
+                <property key="labeling/fontMinPixelSize" value="3"/>
+                <property key="labeling/fontSize" value="10"/>
+                <property key="labeling/fontSizeInMapUnits" value="false"/>
+                <property key="labeling/fontStrikeout" value="false"/>
+                <property key="labeling/fontUnderline" value="false"/>
+                <property key="labeling/fontWeight" value="50"/>
+                <property key="labeling/fontWordSpacing" value="0"/>
+                <property key="labeling/formatNumbers" value="false"/>
+                <property key="labeling/isExpression" value="false"/>
+                <property key="labeling/labelOffsetInMapUnits" value="true"/>
+                <property key="labeling/labelPerPart" value="false"/>
+                <property key="labeling/leftDirectionSymbol" value="&lt;"/>
+                <property key="labeling/limitNumLabels" value="false"/>
+                <property key="labeling/maxCurvedCharAngleIn" value="20"/>
+                <property key="labeling/maxCurvedCharAngleOut" value="-20"/>
+                <property key="labeling/maxNumLabels" value="2000"/>
+                <property key="labeling/mergeLines" value="false"/>
+                <property key="labeling/minFeatureSize" value="0"/>
+                <property key="labeling/multilineAlign" value="0"/>
+                <property key="labeling/multilineHeight" value="1"/>
+                <property key="labeling/namedStyle" value=""/>
+                <property key="labeling/obstacle" value="true"/>
+                <property key="labeling/placeDirectionSymbol" value="0"/>
+                <property key="labeling/placement" value="0"/>
+                <property key="labeling/placementFlags" value="0"/>
+                <property key="labeling/plussign" value="false"/>
+                <property key="labeling/preserveRotation" value="true"/>
+                <property key="labeling/previewBkgrdColor" value="#ffffff"/>
+                <property key="labeling/priority" value="5"/>
+                <property key="labeling/quadOffset" value="4"/>
+                <property key="labeling/reverseDirectionSymbol" value="false"/>
+                <property key="labeling/rightDirectionSymbol" value=">"/>
+                <property key="labeling/scaleMax" value="10000000"/>
+                <property key="labeling/scaleMin" value="1"/>
+                <property key="labeling/scaleVisibility" value="false"/>
+                <property key="labeling/shadowBlendMode" value="6"/>
+                <property key="labeling/shadowColorB" value="0"/>
+                <property key="labeling/shadowColorG" value="0"/>
+                <property key="labeling/shadowColorR" value="0"/>
+                <property key="labeling/shadowDraw" value="false"/>
+                <property key="labeling/shadowOffsetAngle" value="135"/>
+                <property key="labeling/shadowOffsetDist" value="1"/>
+                <property key="labeling/shadowOffsetGlobal" value="true"/>
+                <property key="labeling/shadowOffsetUnits" value="1"/>
+                <property key="labeling/shadowRadius" value="1.5"/>
+                <property key="labeling/shadowRadiusAlphaOnly" value="false"/>
+                <property key="labeling/shadowRadiusUnits" value="1"/>
+                <property key="labeling/shadowScale" value="100"/>
+                <property key="labeling/shadowTransparency" value="30"/>
+                <property key="labeling/shadowUnder" value="0"/>
+                <property key="labeling/shapeBlendMode" value="0"/>
+                <property key="labeling/shapeBorderColorA" value="255"/>
+                <property key="labeling/shapeBorderColorB" value="128"/>
+                <property key="labeling/shapeBorderColorG" value="128"/>
+                <property key="labeling/shapeBorderColorR" value="128"/>
+                <property key="labeling/shapeBorderWidth" value="0"/>
+                <property key="labeling/shapeBorderWidthUnits" value="1"/>
+                <property key="labeling/shapeDraw" value="false"/>
+                <property key="labeling/shapeFillColorA" value="255"/>
+                <property key="labeling/shapeFillColorB" value="255"/>
+                <property key="labeling/shapeFillColorG" value="255"/>
+                <property key="labeling/shapeFillColorR" value="255"/>
+                <property key="labeling/shapeJoinStyle" value="64"/>
+                <property key="labeling/shapeOffsetUnits" value="1"/>
+                <property key="labeling/shapeOffsetX" value="0"/>
+                <property key="labeling/shapeOffsetY" value="0"/>
+                <property key="labeling/shapeRadiiUnits" value="1"/>
+                <property key="labeling/shapeRadiiX" value="0"/>
+                <property key="labeling/shapeRadiiY" value="0"/>
+                <property key="labeling/shapeRotation" value="0"/>
+                <property key="labeling/shapeRotationType" value="0"/>
+                <property key="labeling/shapeSVGFile" value=""/>
+                <property key="labeling/shapeSizeType" value="0"/>
+                <property key="labeling/shapeSizeUnits" value="1"/>
+                <property key="labeling/shapeSizeX" value="0"/>
+                <property key="labeling/shapeSizeY" value="0"/>
+                <property key="labeling/shapeTransparency" value="0"/>
+                <property key="labeling/shapeType" value="0"/>
+                <property key="labeling/textColorA" value="255"/>
+                <property key="labeling/textColorB" value="0"/>
+                <property key="labeling/textColorG" value="0"/>
+                <property key="labeling/textColorR" value="0"/>
+                <property key="labeling/textTransp" value="0"/>
+                <property key="labeling/upsidedownLabels" value="0"/>
+                <property key="labeling/wrapChar" value=""/>
+                <property key="labeling/xOffset" value="0"/>
+                <property key="labeling/yOffset" value="0"/>
+            </customproperties>
+            <blendMode>0</blendMode>
+            <featureBlendMode>0</featureBlendMode>
+            <layerTransparency>0</layerTransparency>
+            <displayfield>id_Section</displayfield>
+            <label>0</label>
+            <labelattributes>
+                <label fieldname="" text="Étiquette"/>
+                <family fieldname="" name="Sans"/>
+                <size fieldname="" units="pt" value="12"/>
+                <bold fieldname="" on="0"/>
+                <italic fieldname="" on="0"/>
+                <underline fieldname="" on="0"/>
+                <strikeout fieldname="" on="0"/>
+                <color fieldname="" red="0" blue="0" green="0"/>
+                <x fieldname=""/>
+                <y fieldname=""/>
+                <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+                <angle fieldname="" value="0" auto="0"/>
+                <alignment fieldname="" value="center"/>
+                <buffercolor fieldname="" red="255" blue="255" green="255"/>
+                <buffersize fieldname="" units="pt" value="1"/>
+                <bufferenabled fieldname="" on=""/>
+                <multilineenabled fieldname="" on=""/>
+                <selectedonly on=""/>
+            </labelattributes>
+            <edittypes>
+                <edittype labelontop="0" editable="1" type="0" name="Commune"/>
+                <edittype labelontop="0" editable="1" type="0" name="Departemen"/>
+                <edittype labelontop="0" editable="1" type="0" name="ID_Com"/>
+                <edittype labelontop="0" editable="1" type="0" name="Id_dep"/>
+                <edittype labelontop="0" editable="1" type="0" name="No_section"/>
+                <edittype labelontop="0" editable="1" type="0" name="Nom_Sectio"/>
+                <edittype labelontop="0" editable="1" type="0" name="Sect_X_lab"/>
+                <edittype labelontop="0" editable="1" type="0" name="Sect_Y_lab"/>
+                <edittype labelontop="0" editable="1" type="0" name="Section_"/>
+                <edittype labelontop="0" editable="1" type="0" name="Shape_Area"/>
+                <edittype labelontop="0" editable="1" type="0" name="Shape_Le_1"/>
+                <edittype labelontop="0" editable="1" type="0" name="Shape_Le_2"/>
+                <edittype labelontop="0" editable="1" type="0" name="Shape_Leng"/>
+                <edittype labelontop="0" editable="1" type="0" name="id_Secti_1"/>
+                <edittype labelontop="0" editable="1" type="0" name="id_Section"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_CULTURES"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_Cultures"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_MOYENNE_2_"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_MOYENNE_S1"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_N2"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_N3"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_N4"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_N5"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_N6"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_N7"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_NOM"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_PC_MO"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_PC_MOY"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_PC_MOYENNE"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_PC_SAISON2"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_PC_SAISON_"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_Pc mo"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_Pc moy"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_Pc moyenne"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_SAISON2"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_SAISON_1"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_SAISON_3_E"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_Saison 1"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_Saison 3 et plus"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_Saison2"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_TOTAL_2_SA"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_TOTAL_SAI2"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_TOTAL_SAIS"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_TOT_SUR"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_Tot_sur"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_Total 2 sais"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_Total 2 saisons"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_field_2"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_field_3"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_field_4"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_field_5"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_field_6"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_field_7"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_moyenne 2 saisons"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_moyenne s1-s2"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_nom"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_pc saison 1"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_pc saison 2"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_total saison 1"/>
+                <edittype labelontop="0" editable="0" type="0" name="riz_total saison 2"/>
+            </edittypes>
+            <editform>.</editform>
+            <editforminit></editforminit>
+            <annotationform>.</annotationform>
+            <editorlayout>generatedlayout</editorlayout>
+            <excludeAttributesWMS/>
+            <excludeAttributesWFS/>
+            <attributeactions/>
+        </maplayer>
+        <maplayer minimumScale="0" maximumScale="1e+08" geometry="No geometry" type="vector" hasScaleBasedVisibilityFlag="0">
+            <id>riz20131104145920805</id>
+            <datasource>./riz.dbf</datasource>
+            <title></title>
+            <abstract></abstract>
+            <keywordList>
+                <value></value>
+            </keywordList>
+            <layername>riz</layername>
+            <srs>
+                <spatialrefsys>
+                    <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+                    <srsid>3452</srsid>
+                    <srid>4326</srid>
+                    <authid>EPSG:4326</authid>
+                    <description>WGS 84</description>
+                    <projectionacronym>longlat</projectionacronym>
+                    <ellipsoidacronym>WGS84</ellipsoidacronym>
+                    <geographicflag>true</geographicflag>
+                </spatialrefsys>
+            </srs>
+            <customproperties/>
+            <provider encoding="System">ogr</provider>
+            <previewExpression></previewExpression>
+            <vectorjoins/>
+            <editform></editform>
+            <editforminit></editforminit>
+            <annotationform></annotationform>
+            <editorlayout>generatedlayout</editorlayout>
+            <excludeAttributesWMS/>
+            <excludeAttributesWFS/>
+            <attributeactions/>
+        </maplayer>
+    </projectlayers>
+    <properties>
+        <SpatialRefSys>
+            <ProjectCrs type="QString">EPSG:4326</ProjectCrs>
+            <ProjectionsEnabled type="int">0</ProjectionsEnabled>
+        </SpatialRefSys>
+        <Paths>
+            <Absolute type="bool">false</Absolute>
+        </Paths>
+        <Gui>
+            <SelectionColorBluePart type="int">0</SelectionColorBluePart>
+            <CanvasColorGreenPart type="int">255</CanvasColorGreenPart>
+            <CanvasColorRedPart type="int">255</CanvasColorRedPart>
+            <SelectionColorRedPart type="int">255</SelectionColorRedPart>
+            <SelectionColorAlphaPart type="int">255</SelectionColorAlphaPart>
+            <SelectionColorGreenPart type="int">255</SelectionColorGreenPart>
+            <CanvasColorBluePart type="int">255</CanvasColorBluePart>
+        </Gui>
+        <PositionPrecision>
+            <DecimalPlaces type="int">2</DecimalPlaces>
+            <Automatic type="bool">true</Automatic>
+        </PositionPrecision>
+    </properties>
+</qgis>

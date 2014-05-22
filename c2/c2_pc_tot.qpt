@@ -1,0 +1,673 @@
+<Composer title="pc_tot" visible="1">
+ <Composition snapGridTolerance="2" gridVisible="0" printResolution="300" paperWidth="279.4" snapGridOffsetX="0" guidesVisible="1" snapGridResolution="10" snapGridOffsetY="0" alignmentSnap="1" snapping="0" numPages="1" paperHeight="215.9" alignmentSnapTolerance="2" smartGuides="1" printAsRaster="0" generateWorldFile="0">
+  <symbol alpha="1" type="fill" name="">
+   <layer pass="0" class="SimpleFill" locked="0">
+    <prop k="border_width_unit" v="MM"/>
+    <prop k="color" v="255,255,255,255"/>
+    <prop k="color_border" v="0,0,0,255"/>
+    <prop k="offset" v="0,0"/>
+    <prop k="offset_unit" v="MM"/>
+    <prop k="style" v="solid"/>
+    <prop k="style_border" v="no"/>
+    <prop k="width_border" v="0.26"/>
+   </layer>
+  </symbol>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <SnapLine y1="0" x1="0" y2="0" x2="0"/>
+  <ComposerLabel valign="32" labelText="Riz (Oryza sativa)" htmlState="0" halign="4" margin="1">
+   <LabelFont description="Droid Sans [unknown],18,-1,5,75,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="109.224" x="8.51365" transparency="0" y="12.736" height="9.74401" positionMode="0" frame="false" outlineWidth="0.3" zValue="12" itemRotation="0" lastValidViewScaleFactor="2.37653" uuid="{b340b810-df33-4701-ad3b-e6d297e5ab19}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerPicture pictureRotation="0" pictureWidth="47.8282" file="./type_culture/c2/Oryza_sativa_-_Köhler–s_Medizinal-Pflanzen-232.jpg" pictureHeight="62.6423" mapId="-1">
+   <ComposerItem width="50.7607" x="77.6723" transparency="0" y="56.1884" height="62.6423" positionMode="0" frame="false" outlineWidth="0.3" zValue="11" itemRotation="0" lastValidViewScaleFactor="2.37653" uuid="{500dba2d-cae9-470a-bad2-e57f4a55939d}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerPicture pictureRotation="0" pictureWidth="30" file="./Licence_Art_Libre.svg" pictureHeight="10.6267" mapId="-1">
+   <ComposerItem width="30" x="120.111" transparency="0" y="204" height="11.9" positionMode="0" frame="false" outlineWidth="0.3" zValue="10" itemRotation="0" lastValidViewScaleFactor="2.48144" uuid="{b7ab99f6-dc1e-4d1c-8860-21c02a150750}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerScaleBar penColor="#000000" style="Single Box" numMapUnitsPerScaleBarUnit="1000" alignment="0" brushColor="#000000" numSegments="4" segmentMillimeters="18.0027" fontColor="#000000" font="Droid Sans,12,-1,5,50,0,0,0,0,0" numUnitsPerSegment="25000" units="1" labelBarSpace="3" outlineWidth="1" numSegmentsLeft="0" height="3" mapId="0" boxContentSpace="1" unitLabel=" km">
+   <ComposerItem width="88.6622" x="184.904" transparency="0" y="204" height="11.9" positionMode="0" frame="false" outlineWidth="0.3" zValue="8" itemRotation="0" lastValidViewScaleFactor="2.37653" uuid="{4e8a100c-624d-43eb-aec3-fead51062bbc}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerScaleBar>
+  <ComposerLegend symbolWidth="7" title="Légende" boxSpace="2" splitLayer="0" equalColumnWidth="0" symbolHeight="4" wmsLegendHeight="25" wrapChar="" fontColor="#000000" columnSpace="2" wmsLegendWidth="50" columnCount="1">
+   <styles>
+    <style marginBottom="2" name="title" font="Droid Sans,16,-1,5,50,0,0,0,0,0"/>
+    <style marginTop="2" name="group" font="Droid Sans,14,-1,5,50,0,0,0,0,0"/>
+    <style marginTop="2" name="subgroup" font="Droid Sans,12,-1,5,50,0,0,0,0,0"/>
+    <style marginTop="2" name="symbol" font="Droid Sans,10,-1,5,50,0,0,0,0,0"/>
+    <style marginTop="2" marginLeft="2" name="symbolLabel" font="Droid Sans,12,-1,5,50,0,0,0,0,0"/>
+   </styles>
+   <Model autoUpdate="1">
+    <LayerItem layerId="sections_communa_cnigs20140521114207605" userText="" style="subgroup" text="Part du riz dans la SAU (%)" showFeatureCount="0">
+     <VectorClassificationItemNg userText="" text="&lt;= 1">
+      <symbols>
+       <symbol alpha="1" type="fill" name="classificationSymbol">
+        <layer pass="0" class="SimpleFill" locked="0">
+         <prop k="border_width_unit" v="MM"/>
+         <prop k="color" v="255,255,255,255"/>
+         <prop k="color_border" v="0,0,0,255"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <prop k="style_border" v="solid"/>
+         <prop k="width_border" v="0.26"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+     <VectorClassificationItemNg userText="" text="1 - 3">
+      <symbols>
+       <symbol alpha="1" type="fill" name="classificationSymbol">
+        <layer pass="0" class="SimpleFill" locked="0">
+         <prop k="border_width_unit" v="MM"/>
+         <prop k="color" v="187,255,152,255"/>
+         <prop k="color_border" v="0,0,0,255"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <prop k="style_border" v="solid"/>
+         <prop k="width_border" v="0.26"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+     <VectorClassificationItemNg userText="" text="3 - 26">
+      <symbols>
+       <symbol alpha="1" type="fill" name="classificationSymbol">
+        <layer pass="0" class="SimpleFill" locked="0">
+         <prop k="border_width_unit" v="MM"/>
+         <prop k="color" v="67,239,50,255"/>
+         <prop k="color_border" v="0,0,0,255"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <prop k="style_border" v="solid"/>
+         <prop k="width_border" v="0.26"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+     <VectorClassificationItemNg userText="" text="26 - 50">
+      <symbols>
+       <symbol alpha="1" type="fill" name="classificationSymbol">
+        <layer pass="0" class="SimpleFill" locked="0">
+         <prop k="border_width_unit" v="MM"/>
+         <prop k="color" v="2,192,11,255"/>
+         <prop k="color_border" v="0,0,0,255"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <prop k="style_border" v="solid"/>
+         <prop k="width_border" v="0.26"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+     <VectorClassificationItemNg userText="" text="50 - 72">
+      <symbols>
+       <symbol alpha="1" type="fill" name="classificationSymbol">
+        <layer pass="0" class="SimpleFill" locked="0">
+         <prop k="border_width_unit" v="MM"/>
+         <prop k="color" v="6,126,29,255"/>
+         <prop k="color_border" v="0,0,0,255"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <prop k="style_border" v="solid"/>
+         <prop k="width_border" v="0.26"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+     <VectorClassificationItemNg userText="" text="72 - 96">
+      <symbols>
+       <symbol alpha="1" type="fill" name="classificationSymbol">
+        <layer pass="0" class="SimpleFill" locked="0">
+         <prop k="border_width_unit" v="MM"/>
+         <prop k="color" v="5,80,35,255"/>
+         <prop k="color_border" v="0,0,0,255"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <prop k="style_border" v="solid"/>
+         <prop k="width_border" v="0.26"/>
+        </layer>
+       </symbol>
+      </symbols>
+     </VectorClassificationItemNg>
+    </LayerItem>
+   </Model>
+   <ComposerItem width="53.8563" x="8.03636" transparency="0" y="57.4307" height="55.4" positionMode="0" frame="false" outlineWidth="0.3" zValue="7" itemRotation="0" lastValidViewScaleFactor="2.37653" uuid="{afc45ede-d07c-420f-a824-a796b886041f}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLegend>
+  <ComposerArrow startMarkerFile="" arrowHeadWidth="4" endMarkerFile="" outlineWidth="1" markerMode="0">
+   <ArrowColor alpha="255" red="0" blue="0" green="0"/>
+   <StartPoint x="273.566" y="44.0637"/>
+   <StopPoint x="273.566" y="44.0637"/>
+   <ComposerItem width="5" x="271.066" transparency="0" y="41.5637" height="5" positionMode="0" frame="false" outlineWidth="0" zValue="5" itemRotation="0" lastValidViewScaleFactor="1.88976" uuid="{fd492ff1-986a-4a82-ab62-5845eb98f4f5}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="0" red="255" blue="255" green="255"/>
+    <BackgroundColor alpha="0" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerArrow>
+  <ComposerLabel valign="32" labelText="Part de la Surface Agricole Utilisée (SAU) par section communale (moyenne annuelle)" htmlState="0" halign="4" margin="1">
+   <LabelFont description="Liberation Serif,16,-1,5,75,1,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="125.35" x="3.08315" transparency="0" y="22.48" height="30" positionMode="0" frame="false" outlineWidth="0.3" zValue="4" itemRotation="0" lastValidViewScaleFactor="2.37653" uuid="{f0fa0e89-ab86-40ee-b7ac-109e80f0cc63}" id="" background="false" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLabel valign="32" labelText="Sources : &#xa;CNIGS 2012&#xa;IHSI, Atlas Censitaire 2003&#xa;MARNDR, RGA 2009&#xa;Image :  By Franz Eugen Köhler, Köhler's Medizinal-Pflanzen (List of Koehler Images - Scientific species names) [Public domain], via Wikimedia Commons&#xa;Cartographie : Xavier Tardieu - Chibas" htmlState="0" halign="1" margin="1">
+   <LabelFont description="Droid Sans,10,-1,5,50,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="91.3297" x="-0.354987" transparency="0" y="179.057" height="36.8427" positionMode="0" frame="false" outlineWidth="0.3" zValue="3" itemRotation="0" lastValidViewScaleFactor="2.37653" uuid="{259c7550-4e43-4462-84bd-6cf74755b3fe}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerMap mapRotation="0" keepLayerSet="false" overviewFrameMap="-1" id="0" previewMode="Cache" drawCanvasItems="true">
+   <overviewFrame overviewBlendMode="0" overviewFrameMap="-1" overviewCentered="false" overviewInverted="false">
+    <symbol alpha="0.3" type="fill" name="">
+     <layer pass="0" class="SimpleFill" locked="0">
+      <prop k="border_width_unit" v="MM"/>
+      <prop k="color" v="255,0,0,255"/>
+      <prop k="color_border" v="0,0,0,255"/>
+      <prop k="offset" v="0,0"/>
+      <prop k="offset_unit" v="MM"/>
+      <prop k="style" v="solid"/>
+      <prop k="style_border" v="no"/>
+      <prop k="width_border" v="0.26"/>
+     </layer>
+    </symbol>
+   </overviewFrame>
+   <Extent ymin="1994983.56245256448164582" xmin="-8359960.93271905276924372" ymax="2294800.33991517079994082" xmax="-7970114.41232141014188528"/>
+   <LayerSet/>
+   <Grid gridStyle="0" crossLength="3" gridFramePenThickness="0.5" intervalX="0" offsetX="0" intervalY="0" offsetY="0" gridFrameStyle="0" gridFrameWidth="2" gridBlendMode="0" show="0">
+    <framePenColor alpha="255" red="0" blue="0" green="0"/>
+    <frameFillColor1 alpha="255" red="255" blue="255" green="255"/>
+    <frameFillColor2 alpha="255" red="0" blue="0" green="0"/>
+    <symbol alpha="1" type="line" name="">
+     <layer pass="0" class="SimpleLine" locked="0">
+      <prop k="capstyle" v="flat"/>
+      <prop k="color" v="0,0,0,255"/>
+      <prop k="customdash" v="5;2"/>
+      <prop k="customdash_unit" v="MM"/>
+      <prop k="draw_inside_polygon" v="0"/>
+      <prop k="joinstyle" v="bevel"/>
+      <prop k="offset" v="0"/>
+      <prop k="offset_unit" v="MM"/>
+      <prop k="penstyle" v="solid"/>
+      <prop k="use_custom_dash" v="0"/>
+      <prop k="width" v="0.3"/>
+      <prop k="width_unit" v="MM"/>
+     </layer>
+    </symbol>
+    <Annotation rightDirection="0" bottomDirection="0" format="0" topPosition="1" precision="3" leftDirection="0" rightPosition="1" bottomPosition="1" frameDistance="1" show="0" font="Droid Sans,10,-1,5,50,0,0,0,0,0" leftPosition="1" topDirection="0">
+     <fontColor alpha="255" red="0" blue="0" green="0"/>
+    </Annotation>
+   </Grid>
+   <AtlasMap fixedScale="0" atlasDriven="0" margin="0.10000000000000001"/>
+   <ComposerItem width="280.731" x="0.000120722" transparency="0" y="0" height="215.9" positionMode="0" frame="false" outlineWidth="0.3" zValue="2" itemRotation="0" lastValidViewScaleFactor="2.37653" uuid="{e45d6bf5-cbc9-4fe8-918c-b418dd03964f}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerMap>
+  <ComposerLabel valign="32" labelText="Licence, logo uniq&#xa;CC-BY-NC-SA" htmlState="0" halign="1" margin="1">
+   <LabelFont description="Droid Sans,10,-1,5,50,0,0,0,0,0"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem width="74.9166" x="90.9747" transparency="0" y="185.369" height="20.3876" positionMode="0" frame="false" outlineWidth="0.3" zValue="1" itemRotation="0" lastValidViewScaleFactor="2.41691" uuid="{0d3e7e11-9619-4bb4-a5e5-8d72826972d5}" id="" background="true" blendMode="0" positionLock="false">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+   </ComposerItem>
+  </ComposerLabel>
+ </Composition>
+</Composer>
