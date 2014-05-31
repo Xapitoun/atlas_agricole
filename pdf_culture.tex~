@@ -1,0 +1,450 @@
+
+\setupinteraction[state=start]%ne pas oublier cette ligne 
+%permet titres d'√™tre visible √† ouverture document
+
+\placebookmarks[chapter, section][chapter,section]
+\setupinteractionscreen[option=bookmark]
+\enableregime [utf-8]
+\enablemode[screen]
+\language[fr]
+%\setcharacterspacing[frenchpunctuation]
+\usemodule[french]
+\setuppapersize[landscape][letter]
+\mainlanguage [fr]
+\setupcolors[state=start]
+\setuphead[part][number=yes]
+\setuphead[chapter][number=yes]
+\setuphead[subsection][number=yes]
+\setuphead[subsubsection][number=no]%ne pas numeroter cette partie
+\setupquotation[style=bold,before=\blank, after=\blank]
+\setuplist[part]
+\setuplist[chapter][color=darkgreen]
+\setuplist[section]
+\setuplist[subsection]
+\defineframed [tightframed][autowidth=force,align=middle]
+\defineframed[exo][align=middle, backgroundcolor=green]
+\definedescription[objectif][location=left,headstyle=bold,width=broad]
+\starttext
+
+
+\startstandardmakeup 
+\midaligned{cours uniq} 
+\midaligned{}
+ \midaligned{}
+ \midaligned{Xavier L. Tardieu, Gaël Pressoir }
+\stopstandardmakeup
+
+\setupheadertexts[pagenumber]%en tete de page
+
+%\placecontent % cr√©ation table des mati√®res
+
+\placelist[part,chapter,section, subsection][alternative=c] %qui va dans table des mati√®res, avec quelle disposition
+\placefigure
+[][]
+{riz}
+{\externalfigure[c2/c2_p_t.jpeg]}
+\placefigure
+[][]
+{}
+{\externalfigure[c2/c2_s_tot.jpeg]}
+
+\placefigure
+[][]
+{maïs}
+{\externalfigure[c1/c1_p_t.jpeg]}
+
+% Created 2014-05-30 ven. 22:23
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{fixltx2e}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{soul}
+\usepackage{textcomp}
+\usepackage{marvosym}
+\usepackage{wasysym}
+\usepackage{latexsym}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\tolerance=1000
+\providecommand{\alert}[1]{\textbf{#1}}
+
+\title{travail}
+\author{jasmin}
+\date{\today}
+\hypersetup{
+  pdfkeywords={},
+  pdfsubject={},
+  pdfcreator={Emacs Org-mode version 7.9.3f}}
+
+\begin{document}
+
+\maketitle
+
+\setcounter{tocdepth}{3}
+\tableofcontents
+\vspace*{1cm}
+
+
+\section{\textbf{DONE} présentation et synthèse `'support de présentation efficace'\textit{2014-05-06 mar.}'}
+\label{sec-1}
+
+   
+\section{Chibas}
+\label{sec-2}
+\subsection{\textbf{TODO} cours données}
+\label{sec-2-1}
+\subsubsection{}
+\subsubsection{donnée}
+\label{sec-2-1-2}
+
+\begin{description}
+\item[donnée] les données sont les valeurs de variables quantitatives ou qualitatives qui appartiennent à un ensemble d’éléments(population).
+\item[variable] une mesure ou charactéristique d’un élément
+\item[qualitatif] pays, sexe, traitement
+\item[quantitatif] taille, pression du sang
+\end{description}
+la donnée est la 2e chose la plus importante après la question. les données vont limiter ou ouvrir des portes à la question. 
+\subsubsection{type analyse}
+\label{sec-2-1-3}
+
+\begin{description}
+\item[analyse descriptive] décrit une situation  sur un problème existant
+\item[analyse inférentielle] utilise une petite part de données pour l’appliquer à une plus grande population.
+\item[analyse prédictive] utiliser des données d’un objet pour prédire des valeurs pour un autre objet
+\item[analyse causale] regarder ce qui change dans un variable quand on change une autre variable
+\item[analyse mechanistic (anglais)] comprendre les changements exacts des variables that lead to change in other variables for individual objects
+\item[analyse exploratoire] cherche des connections entre \# données. corrélation n’implique pas une conséquence de cause à effet
+\end{description}
+prediction et inference (anglais)
+lien figshare
+        
+\subsubsection{\textbf{TODO} images camembert à ne pas faire}
+\label{sec-2-1-4}
+
+\href{file:///home/jasmin/Images/travail_uniq/ne_pas_faire_camembert.png}{Camembert mal fait}, Photos magazine Bon Nouvèl \href{file:///home/jasmin/Images/travail_uniq}{Photos sans source}
+\subsection{\textbf{TODO} tutorat pédagogique}
+\label{sec-2-2}
+\subsubsection{\textbf{DONE} trouver fichier et le mettre à jour \textit{2014-05-07 mer.}}
+\label{sec-2-2-1}
+\subsubsection{\textbf{DONE} ajouter comment mettre bibliographie, logiciels utilisés\textit{2014-05-07 mer.}}
+\label{sec-2-2-2}
+\begin{itemize}
+
+\item \textbf{TODO} Intro\\
+\label{sec-2-3-1}%
+\texttt{DEADLINE:} \textit{2014-05-08 jeu.} \texttt{SCHEDULED:} \textit{2014-05-09 ven.}
+
+cet atlas agricole recense les différentes cultures du RGA.
+Vous pourrez y trouver des cartes pour le nombre de carreaux ou le pourcentage moyen.
+Des cartes sont produites pour la flore, la faune ainsi que les usages humains dans l’agriculture.
+Les données sont extraites du Recensement Général de l’Agriculture (RGA) qui date principalement de l’année 2009. Ces données ont ensuite été retravaillées en utilisant les normes de l’[[][IHSI] pour mettre chaque quartier et ville dans la bonne section communale.
+Nous avons classé les cartes en fonction du thème général applicable :
+\begin{enumerate}
+\item la flore
+\begin{itemize}
+\item les cultures maraîchères
+\item les céréales
+\begin{itemize}
+\item le sorgho  \href{http://mariejosephelt.perso.sfr.fr/atlas/cultures/c3_sur_tot.svg}{Superficie Moyenne}  et \href{http://mariejosephelt.perso.sfr.fr/atlas/cultures/c3_pc_tot.svg}{Pourcentage annuel moyen}
+\item le riz \href{http://mariejosephelt.perso.sfr.fr/atlas/cultures/C2_surfa_tot_image.png}{Superfici moyenne} et pourcentea
+\end{itemize}
+\item la patate douce
+\end{itemize}
+\end{enumerate}
+
+
+
+
+\begin{itemize}
+\item les arbres
+\item la faune
+\begin{itemize}
+\item les équidés
+\item les caprins
+\item les ovins
+\item les bovins
+\end{itemize}
+\item l’environnement humain
+\end{itemize}
+
+cartes ont été produites en reprenant la table des cultures et leur Sau, et les calculs ont été faits avec STANDARD selon moyenne et écart type ou parfois méthodes de Jenks \href{http://soshg.free.fr/formation/discretisation.htm}{discritisation}.
+pour les noms des plantes, utilisation de Wikipédia et \href{http://elpinto.free.fr/fr/haiti/}{plantes d’Haïti}
+
+\end{itemize} % ends low level
+\subsection{\textbf{TODO} Atlas Agricole}
+\label{sec-2-3}
+\subsubsection{\textbf{TODO} cartes cultures maraîchères}
+\label{sec-2-3-1}
+
+on a nombre de carreaux et pc moyen
+\begin{itemize}
+
+\item \textbf{DONE} calcul moyenne, somme…\\
+\label{sec-2-3-1-1}%
+\begin{verbatim}
+-- NOMBRE DE CARREAUX
+--select code_cultu, avg(moyenne_saison) from s_enti where code_cultu is not null and code_cultu='C1' group by code_cultu order by code_cultu;  --MOYENNE
+--select code_cultu, count(moyenne_saison) from s_enti where code_cultu is not null and code_cultu='C1' and moyenne_saison < 1 group by code_cultu order by code_cultu; --SOMME
+--select code_cultu, max(moyenne_saison) from s_enti where code_cultu is not null and code_cultu='C1' group by code_cultu order by code_cultu; --MAX
+--select code_cultu, min(moyenne_saison) from s_enti where code_cultu is not null and code_cultu='C1' group by code_cultu order by code_cultu;
+--select code_cultu, min(moyenne_saison), max(moyenne_saison),avg(moyenne_saison), (select count(moyenne_saison) from s_enti where code_cultu is not null and code_cultu='C1' and moyenne_saison < 1 group by code_cultu order by code_cultu)  from s_enti where code_cultu is not null and code_cultu='C1' group by code_cultu order by code_cultu;
+-- POURCENTAGE MOYEN
+--select code_cultu, count(pc_sau) from s_enti where code_cultu is not null and code_cultu='C1' and pc_sau <= 5 group by code_cultu order by code_cultu;
+--select code_cultu, avg(pc_sau) from s_enti where code_cultu is not null and code_cultu='C1' group by code_cultu order by code_cultu;
+--select code_cultu, avg(pc_sau) from s_enti where code_cultu is not null and code_cultu='C1' and pc_sau > 4 group by code_cultu order by code_cultu;
+select code_cultu, min(pc_sau), max(pc_sau),avg(pc_sau), (select count(pc_sau) from s_enti where code_cultu is not null and code_cultu='C1' and pc_sau <= 2 group by code_cultu order by code_cultu)  from s_enti where code_cultu is not null and code_cultu='C1' group by code_cultu order by code_cultu;
+\end{verbatim}
+
+\item \textbf{TODO} à faire et fait\\
+\label{sec-2-3-1-2}%
+\texttt{SCHEDULED:} \textit{2014-06-02 lun.}
+
+
+\begin{center}
+\begin{tabular}{lllllll}
+ culture                  &  surface totale                                                                              &  pourcentage annuel moyen  &  code  &  légende image                                                               &  nom scientifique                    &  densité  \\
+\hline
+ riz                      &  fait   \href{file:///home/jasmin/Dropbox/chibas/type_culture/c2/c2_pc_tot.jpeg}{pourcenta}  &  fait                      &  c2    &                                                                              &  Oryza                               &           \\
+ maïs                     &  fait                                                                                        &  fait                      &  c1    &                                                                              &                                      &           \\
+ sorgho                   &  fait                                                                                        &  fait                      &  c3    &                                                                              &                                      &           \\
+ noix de cajou            &  fait                                                                                        &  fait                      &  c70   &                                                                              &                                      &  fait     \\
+ haricot                  &  fait                                                                                        &  fait                      &  c4    &  Par Vilmorin-Andrieux \& Cie [Public domain], via Wikimedia Commons         &  Phaseolus vulgaris                  &           \\
+ arachide                 &  fait                                                                                        &  fait                      &  c72   &                                                                              &  arachide (Arachis hypogaea)         &           \\
+ pois congo               &  fait                                                                                        &  fait                      &  c5    &  By Francisco Manuel Blanco (O.S.A.) [Public domain], via Wikimedia Commons  &  Cajanus cajan  syn cajanus indicus  &           \\
+ pois souche              &  fait                                                                                        &  fait                      &  c6    &                                                                              &  Phaseolus lunatus                   &           \\
+ pois inconnu             &  f                                                                                           &  f                         &  c7    &                                                                              &  Pisum                               &           \\
+ autres légumineuses      &                                                                                              &                            &  c8    &                                                                              &                                      &           \\
+ choux                    &  fait                                                                                        &  fait                      &  c9    &                                                                              &                                      &           \\
+ chou-fleur               &  fait                                                                                        &  fait                      &  c10   &                                                                              &                                      &           \\
+ cresson, céleri, persil  &  fait                                                                                        &  fait                      &  c11   &                                                                              &                                      &           \\
+ laitues                  &  fait                                                                                        &  fait                      &  c12   &                                                                              &                                      &           \\
+ épinards (amarante)      &                                                                                              &                            &  c13   &                                                                              &                                      &           \\
+ lalo liane panier        &  f                                                                                           &  f                         &  c14   &                                                                              &                                      &           \\
+ concombre                &  f                                                                                           &  f                         &  c16   &                                                                              &                                      &           \\
+ aubergine                &  f                                                                                           &  f                         &  c17   &                                                                              &                                      &           \\
+ tomate                   &  f                                                                                           &  f                         &  c18   &                                                                              &                                      &           \\
+ melon France             &  f                                                                                           &  f                         &  c21   &                                                                              &                                      &           \\
+ pastèque                 &  f                                                                                           &  f                         &  c20   &                                                                              &                                      &           \\
+ calalou                  &  f                                                                                           &  f                         &  c23   &                                                                              &                                      &           \\
+ carotte                  &  f                                                                                           &  f                         &  c25   &                                                                              &                                      &           \\
+\end{tabular}
+\end{center}
+
+
+
+
+\begin{center}
+\begin{tabular}{llllllllllllllllllllllllllllllllllllll}
+ culture                 &  code culture  &  nom scientifique                                                                       &  type  &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ concombre               &  c16           &  concombre (Cucumis sativus)                                                            &  c     &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ aubergine               &  c17           &  aubergine (Solanum melongena L.)                                                       &  c     &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ tomate                  &  c18           &  tomate (Solanum lycopersicum                                                           &  c     &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ mirliton                &  c19           &  Sechium edule                                                                          &        &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ pastèque                &  c20           &  pastèque (Cucumis lanatus)                                                             &  c     &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ cantaloup melon france  &  c21           &  Melon (Cucumis melo)                                                                   &  c     &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ potirons   …            &  c22           &  Cucurbita pepo                                                                         &  c     &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ combos calalou          &  c23           &  gombo (Abelmoschus esculentus)                                                         &  c     &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ carottes                &  c25           &  carotte (Daucus carota)                                                                &  c     &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ mazembelle              &  c26           &                                                                                         &        &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ betterave rouge         &  f             &  f                                                                                      &  c27   &  Beta vulgaris                                                       &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ ail                     &  f             &  f                                                                                      &  c28   &  ail cultivé (Allium sativum)                                        &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ oignons et échalotes    &  f             &  f                                                                                      &  C29   &  Allium cepa pour ognon, Allium cepa var. aggregatum pour échalotte  &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ poireaux…               &  f             &  f                                                                                      &  C30   &  Allium porrum pour poireau, et Le genre Allium                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ pomme de terre          &  f             &  f                                                                                      &  C31   &  Solanum tuberosum                                                   &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ patates                 &  f             &  f                                                                                      &  C32   &  patate douce (Ipomoea batatas)                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ ignames                 &  f             &  f                                                                                      &  C33   &  Dioscorea  Igname (Dioscorea)                                       &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ manioc doux             &  f             &  f                                                                                      &  C34   &  manioc (Manihot esculenta)                                          &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ manioc amer             &  f             &  f                                                                                      &  C35   &  manioc (Manihot esculenta)                                          &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ malanga taro            &  f             &  f                                                                                      &  C36   &  Colocasia                                                           &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ champignons et truffes  &  f             &  f                                                                                      &  C38   &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ avocat                  &  C39           &  avocatier (Persea americana)                                                           &        &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ banane et plantain      &  C40           &  bananiers (Musa)                                                                       &        &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ tamarin                 &  C41           &  tamarinier (Tamarindus indica)                                                         &        &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ guayave                 &  C42           &  goyavier (Psidium guajava)                                                             &        &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ corossol                &  C43           &  corossolier, Annona muricata                                                           &        &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ cachiman                &  C44           &  Chérimolier (Annona cherimola),                                                        &        &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ mangue francique        &  C45           &  manguier (Mangifera indica                                                             &        &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ autres mangues          &  C46           &  manguier (Mangifera indica                                                             &        &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ papaye                  &  C47           &  papayer (Carica papaya                                                                 &        &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ ananas                  &  C48           &  ananas (Ananas comosus)                                                                &  c     &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ arbre véritable         &  C49           &  (Artocarpus altilis)                                                                   &        &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ arbre à pain            &  50            &  châtaigner pays (Artocarpus altilis var. seminifera)                                   &        &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ abricot                 &  51            &  abricotier des Antilles ou abricotier-pays (Mammea americana L.)                       &        &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ quenepe                 &  52            &  quenettier (Melicoccus bijugatus)                                                      &        &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ corombola               &  53            &  carambolier (Averrhoa carambola)     ?                                                 &        &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ pamplemousse            &  55            &  Citrus maxima                                                                          &        &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ citrons et limes        &  56            &  limettier des Antilles (Citrus aurantiifolia) et citron (   citronnier (Citrus limon)  &        &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ orange                  &  57            &  oranger douce (Citrus sinensis) et   amère  (Citrus aurantium)                         &        &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ raisin                  &  60            &  Vitis vinifera,  Raisinier bord de mer (Coccoloba uvifera) ?                           &        &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ fraise                  &  f             &  f                                                                                      &  61    &  Fragaria vesca ou    Fragaria ×ananassa                             &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ cerise                  &  63            &  acérola (Malpighia emarginata)        (Malpighia punicifolia)                          &        &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ peches                  &  64            &  Pêcher commun, (Prunus persica (L.) Batsch)                                            &        &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ grenadine               &  65            &  passiflora quadrangularis                                                              &        &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ grenade                 &  66            &  Grenadier commun (Punica granatum)                                                     &        &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ grenadia                &  67            &  grenadille (Passiflora edulis)                                                         &        &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ amandes                 &  69            &  badamier (Terminalia catappa)                                                          &        &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ cocotier                &  73            &  Cocotier (Cocos nucifera)                                                              &        &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ café                    &  75            &  caféier d'Arabie (Coffea arabica)                                                      &  a     &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ cacao                   &  76            &  cacaoyer (Theobroma cacao)                                                             &  a     &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ piment                  &  78            &  Capsicum frutescens    Capsicum baccatum                                               &  c     &                                                                      &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ gingembre               &  f             &  f                                                                                      &  79    &  gingembre (Zingiber officinale)                                     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ thym                    &  f             &  f                                                                                      &  85    &  Farigoule (Thymus vulgaris. L.)                                     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ vétiver                 &  f             &  f                                                                                      &  86    &  Chrysopogon zizanioides                                             &  c  &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ roseaux                 &  f             &  f                                                                                      &  90    &  canne flèche (Gynerium sagittatum)  ou       Arundo donax           &  c  &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+ tabac                   &  f             &  f                                                                                      &  91    &  Nicotiana tabacum                                                   &  c  &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     &     \\
+\end{tabular}
+\end{center}
+
+
+\begin{itemize}
+
+\item \textbf{DONE} pois congo \textit{2014-05-13 mar.} nouvelle couleurs et intitulés légende et titre
+\label{sec-2-3-1-2-1}%
+
+\item \textbf{DONE} haricot même chose
+\label{sec-2-3-1-2-2}%
+
+\item \textbf{TODO} riz
+\label{sec-2-3-1-2-3}%
+
+\item \textbf{DONE} maïs
+\label{sec-2-3-1-2-4}%
+
+\item \textbf{DONE} sorgho
+\label{sec-2-3-1-2-5}%
+
+\item \textbf{DONE} noix de cajou anacardier (Anacardium occidentale)
+\label{sec-2-3-1-2-6}%
+
+\item \textbf{DONE} arachide By Franz Eugen Köhler, Köhler's Medizinal-Pflanzen (List of Koehler Images - Scientific species names) [Public domain], via Wikimedia Commons
+\label{sec-2-3-1-2-7}%
+
+\item \textbf{TODO} refaire cartes limonade et verettes pour sorgho et bœuf\\
+\label{sec-2-3-1-2-8}%
+\end{itemize} % ends low level
+\end{itemize} % ends low level
+\subsubsection{\textbf{TODO} carte arbres}
+\label{sec-2-3-2}
+
+prendre un des tableaux.
+Part de la Surface Agricole Utilisée (SAU) par section communale (moyenne annuelle)
+Superficie en carreaux par section communale (moyenne annuelle)
+``code$_{\mathrm{cultu}}$'' = `C14' pour cultures
+``id$_{\mathrm{culture}}$'' = `C70' and id$_{\mathrm{sec}}$ !\~{} `-8' and id$_{\mathrm{sec}}$ !\~{} `-9' pour arbres
+\begin{itemize}
+
+\item \textbf{TODO} noix de cajou
+\label{sec-2-3-2-1}%
+
+\item \textbf{DONE} arachide
+\label{sec-2-3-2-2}%
+\end{itemize} % ends low level
+\subsubsection{\textbf{TODO} occupation du sol}
+\label{sec-2-3-3}
+
+    \href{file:///home/jasmin/Dropbox/chibas/type_culture/c2/C2_surfa_tot_image.png}{carte du riz}
+\subsubsection{\textbf{TODO} site web pour carte}
+\label{sec-2-3-4}
+\subsection{\textbf{TODO} cultures chibas}
+\label{sec-2-4}
+\subsubsection{\textbf{TODO} site web}
+\label{sec-2-4-1}
+\subsubsection{\textbf{TODO} organigramme tables jatropha}
+\label{sec-2-4-2}
+
+    \texttt{SCHEDULED:} \textit{2014-05-06 mar.}
+
+\begin{verbatim}
+<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.0 Transitional//EN'>
+<HTML>
+<HEAD>
+<META HTTP-EQUIV='Content-Type' CONTENT='text/html; charset=utf8'> 
+</HEAD><BODY BGCOLOR='white' TEXT='black'>
+<FONT SIZE='4'>
+</FONT>
+<B>AGRICULTEUR</B> (<U>id_agriculteur</U>, nif/cin, sexe, téléphone_num, nbre_enfants, nbre_carreaux, nom_prénom)<BR>
+<B>CONTRAT</B> (<U>id_contrat</U>, date_contrat, qté_pieds_jatropha, type, <I>id_agriculteur</I>)<BR>
+<B>PARCELLE</B> (<U>id_parcelle</U>, geom, name, superficie, qté_initial, <I>id_localité</I>, <I>id_contrat</I>)<BR>
+<B>LOCALITÉS</B> (<U>id_localité</U>, geom_section, id_section, nom_section, id_com, nom_commune, id_département, nom_département, nom_localité)<BR>
+<B>CONTRÔLE</B> (<U><I>id_contrat</I></U>, <U><I>id_éval</I></U>)<BR>
+<B>ÉVALUATION</B> (<U>id_éval</U>, date_éval, commentaire)<BR>
+</BODY></HTML>
+\end{verbatim}
+
+Espèce: id$_{\mathrm{esp}}$èce, nom$_{\mathrm{esp}}$èce
+Variété: id$_{\mathrm{vari}}$été, nom$_{\mathrm{vari}}$été, autre$_{\mathrm{nom}}$, rendement$_{\mathrm{vari}}$été,
+Évaluation: id_éval, date_éval, commentaire, 
+Semis: id$_{\mathrm{semis}}$, technique, système, densité, date$_{\mathrm{semis}}$, date$_{\mathrm{transport}}$
+est$_{\mathrm{plant}}$ée$_{\mathrm{avec}}$, 0N id$_{\mathrm{esp}}$èce, 0N id$_{\mathrm{parcelle}}$: qté$_{\mathrm{esp}}$èce
+a$_{\mathrm{un}}$$_{\mathrm{type}}$$_{\mathrm{de}}$, 0N id$_{\mathrm{semis}}$, 0N id$_{\mathrm{parcelle}}$
+est$_{\mathrm{contr}}$ôlée$_{\mathrm{par}}$, 0N id_éval, 0N id$_{\mathrm{parcelle}}$
+possède_\#_types, 0N id$_{\mathrm{vari}}$été, 0N id$_{\mathrm{semis}}$
+\subsection{\textbf{TODO} regarder haitidata.orh pluviométrie}
+\label{sec-2-5}
+\subsection{\textbf{TODO} envoi doyen FSEA rapport sur travail en cours}
+\label{sec-2-6}
+\section{\textbf{TODO} Haïti Futur}
+\label{sec-3}
+\subsection{\textbf{TODO} facture pour uniq}
+\label{sec-3-1}
+\subsection{\textbf{TODO} facture Jean-François}
+\label{sec-3-2}
+\subsection{\textbf{TODO} facture ESIH installation TNI}
+\label{sec-3-3}
+\subsection{\textbf{TODO} La Pomme contrôle final installation}
+\label{sec-3-4}
+\subsection{\textbf{DONE} Péniel nettoyage Tni + recentrage Tni}
+\label{sec-3-5}
+
+    \textit{2014-05-07 mer.}
+\subsubsection{éponge, savon, trousse de réparation, perceuse}
+\label{sec-3-5-1}
+\subsection{\textbf{TODO} dossier leçons maths}
+\label{sec-3-6}
+\subsubsection{\textbf{TODO} numération}
+\label{sec-3-6-1}
+
+\begin{enumerate}
+\item cours 1
+\item cours 2
+\end{enumerate}
+\subsubsection{\textbf{TODO} vérifier les fichiers images reçus .swf}
+\label{sec-3-6-2}
+
+
+
+Proportion de maïs de la Surface Agricole Utilisée (SAU) par section communale (moyenne annuelle)
+1 \% – 5 \%
+Pourcentage
+Nombre de carreaux de maïs par section communale (moyenne annuelle)
+5 ca – 10 ca
+\section{OSM}
+\label{sec-4}
+\subsection{\textbf{TODO} envoyer à Mario le lien image Drone}
+\label{sec-4-1}
+\subsection{\textbf{TODO} faire le lien université et cosmha}
+\label{sec-4-2}
+\subsubsection{\textbf{TODO} utilisation drone dans le cadre projet de développement privé et publique.}
+\label{sec-4-2-1}
+\subsubsection{manque dans présentation UAV}
+\label{sec-4-2-2}
+
+\begin{itemize}
+\item plan de la présentation
+\item exemples de réalisation ou de mesures prises en relation avec cela
+\item changement de paradigme sur les données
+\item 
+\end{itemize}
+
+
+vols de la rivière grise le 19 mai 2014, en présence de Presler, Xavier, Aurélien, Singoudin, Oston (le chauffeur)
+nous nous sommes rendus dans la zone de Duvivier et de Damien, pour réaliser les 4 premiers vols qui se trouvent au milieu des zones ciblées de relevés. 
+nous avons réalisé 4 vols d’une durée moyenne de 30 minutes, avec cependant un vol qui n’a pu se terminer faute de hausse de la vitesse du vent, qui a occassionné une augmentation de l’utilisation de la batterie, donc une décharge plus rapide de la batterie et donc la nécessité de l’interruption du vol. 
+
+\end{document}
+
+stoptext

@@ -1,0 +1,169 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=cont-en 2014.1.14)  30 MAY 2014 23:06
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**pdf_culture.tex
+(./pdf_culture.tex
+
+ConTeXt  ver: 2013.04.09 10:38 MKII  fmt: 2014.1.14  int: english/english
+
+system          : cont-new.mkii loaded
+(/usr/share/texmf/tex/context/base/cont-new.mkii
+systems         : beware: some patches loaded from cont-new.mkii
+)
+system          : pdf_culture.top loaded
+(./pdf_culture.top
+)
+bodyfont        : 12pt rm is loaded
+language        : patterns nl->texnansi:texnansi->1->2:2 nl->ec:ec->2->2:2 us->
+ec:ec->3->2:3 de->texnansi:texnansi->4->3:3 de->ec:ec->5->3:3 da->ec:ec->6->2:2
+ sv->ec:ec->7->2:2 af->ec:ec->8->2:2 gb->ec:ec->9->2:2 fr->texnansi:texnansi->1
+0->2:2 fr->ec:ec->11->2:2 es->ec:ec->12->2:2 ca->ec:ec->13->2:2 it->texnansi:te
+xnansi->14->2:2 it->ec:ec->15->2:2 la->ec:ec->16->2:2 pt->texnansi:texnansi->17
+->2:2 pt->ec:ec->18->2:2 ro->ec:ec->19->2:2 pl->pl0:pl0->20->2:2 pl->ec:ec->21-
+>2:2 pl->qx:qx->22->2:2 cs->il2:il2->23->2:2 cs->ec:ec->24->2:2 sk->il2:il2->25
+->2:2 sk->ec:ec->26->2:2 hr->ec:ec->27->2:2 sl->ec:ec->28->2:2 tr->ec:ec->29->2
+:2 tk->ec:ec->30->1:2 lt->l7x:l7x->31->2:2 agr->agr:agr->33->2:2 fi->ec:ec->34-
+>2:2 hu->ec:ec->35->2:2 ru->t2a:t2a->37->2:2 uk->t2a:t2a->38->3:3  loaded
+specials        : dvips loaded
+\openout3 = `pdf_culture.tui'.
+
+\openout0 = `mpgraph.mp'.
+
+systems         : system commands are enabled
+language        : language en is active
+specials        : loading definition file tpd
+(/usr/share/texmf/tex/context/base/spec-tpd.mkii
+specials        : loading definition file fdf
+(/usr/share/texmf/tex/context/base/spec-fdf.mkii))
+interaction     : active
+system          : module french not found
+systems         : print width forced to paper width
+color           : mpcmyk color space is supported
+color           : mpspot color space is supported
+color           : system rgb is global activated
+(./pdf_culture.tuo) (./pdf_culture.tuo) (./pdf_culture.tuo) (./pdf_culture.tuo)
+(./pdf_culture.tuo) (./pdf_culture.tuo) (./pdf_culture.tuo) (./pdf_culture.tuo)
+(./pdf_culture.tuo) (./pdf_culture.tuo) (./pdf_culture.tuo)
+publications    : file pdf_culture.bbl not found, waiting for bibtex
+(./pdf_culture.tuo)
+systems         : begin file pdf_culture at line 27
+fonts           : needs map file: original-base
+fonts           : needs map file: original-ams-base
+fonts           : needs map file: original-public-lm
+fonts           : needs map file: lm-ec
+fonts           : needs map file: lm-math
+fonts           : needs map file: lm-rm
+interaction     : aspect ratio 845.04684 x 794.96999 (b x h)
+(/usr/share/texmf/tex/context/base/sort-def.mkii)
+(/usr/share/texmf/tex/context/base/sort-lan.mkii)
+interaction     : pdftex code inserted
+[1.1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./pdf_culture.tuo)
+system          : part,chapter,section, subsection not found/processed
+ <./c2/c2_p_t.jpeg>
+figures         : dimensions of c2/c2_p_t.jpeg loaded from figurefile itself
+(./pdf_culture.tuo)
+floatblocks     : 1 limited
+floatblocks     : 1 placed
+ <./c2/c2_s_tot.jpeg>
+figures         : dimensions of c2/c2_s_tot.jpeg loaded from figurefile itself
+floatblocks     : 2 limited
+[2.1]
+floatblocks     : 2 placed
+ <./c1/c1_p_t.jpeg>
+figures         : dimensions of c1/c1_p_t.jpeg loaded from figurefile itself
+floatblocks     : 3 limited
+[3.2]
+floatblocks     : 3 placed
+ <./c1/c1_s_t.jpeg>
+figures         : dimensions of c1/c1_s_t.jpeg loaded from figurefile itself
+floatblocks     : 4 limited
+[4.3]
+floatblocks     : 4 placed
+ <./c4/c4_p_t.jpeg>
+figures         : dimensions of c4/c4_p_t.jpeg loaded from figurefile itself
+floatblocks     : 5 limited
+[5.4]
+floatblocks     : 5 placed
+ <./c4/c4_s_t.jpeg>
+figures         : dimensions of c4/c4_s_t.jpeg loaded from figurefile itself
+floatblocks     : 6 limited
+[6.5]
+floatblocks     : 6 placed
+figures         : figureobject c4/c4_p_t.jpeg is reused
+floatblocks     : 7 limited
+[7.6]
+floatblocks     : 7 placed
+figures         : figureobject c4/c4_s_t.jpeg is reused
+floatblocks     : 8 limited
+[8.7]
+floatblocks     : 8 placed
+ <./c6/c6_pc_tot.jpeg>
+figures         : dimensions of c6/c6_pc_tot.jpeg loaded from figurefile itself
+
+floatblocks     : 9 limited
+[9.8]
+floatblocks     : 9 placed
+ <./c6/c6_s_t.jpeg>
+figures         : dimensions of c6/c6_s_t.jpeg loaded from figurefile itself
+floatblocks     : 10 limited
+[10.9]
+floatblocks     : 10 placed
+ <./c7/c7_p_t.jpeg>
+figures         : dimensions of c7/c7_p_t.jpeg loaded from figurefile itself
+floatblocks     : 11 limited
+[11.10]
+floatblocks     : 11 placed
+ <./c7/c7_s_t.jpeg>
+figures         : dimensions of c7/c7_s_t.jpeg loaded from figurefile itself
+floatblocks     : 12 limited
+[12.11]
+floatblocks     : 12 placed
+ <./sorgho/c3_p_t.jpeg>
+figures         : dimensions of sorgho/c3_p_t.jpeg loaded from figurefile itsel
+f
+floatblocks     : 13 limited
+[13.12]
+floatblocks     : 13 placed
+ <./sorgho/c3_s_t.jpeg>
+figures         : dimensions of sorgho/c3_s_t.jpeg loaded from figurefile itsel
+f
+floatblocks     : 14 limited
+[14.13]
+floatblocks     : 14 placed
+figures         : figure c9_choux/c4_p_t.jpeg can not be found
+[15.14]
+floatblocks     : 15 placed
+figures         : figureobject c4/c4_s_t.jpeg is reused
+floatblocks     : 16 limited
+floatblocks     : 16 saved
+floatblocks     : 16 moved
+[16.15] [17.16] (./pdf_culture.tuo)
+system          : chapter, section not found/processed
+(./pdf_culture.tuo)
+system          : chapter, section not found/processed
+systems         : end file pdf_culture at line 120
+
+system          : module french not found
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1086 strings out of 455921
+ 16290 string characters out of 5531024
+ 4619672 words of memory out of 9023574
+ 42127 multiletter control sequences out of 15000+600000
+ 83057 words of font info for 39 fonts, out of 8000000 for 9000
+ 397 hyphenation exceptions out of 8191
+ 54i,17n,80p,206b,667s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/
+public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/sh
+are/texmf/fonts/type1/public/lm/lmtt8.pfb>
+
+pdfTeX warning: pdftex: no GlyphToUnicode entry has been inserted yet!
+Output written on pdf_culture.pdf (17 pages, 9224390 bytes).
+PDF statistics:
+ 105 PDF objects out of 1000 (max. 8388607)
+ 71 compressed objects within 1 object stream
+ 16 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+

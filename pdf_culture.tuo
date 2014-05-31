@@ -1,0 +1,56 @@
+%
+% loaded files: 1
+%
+% > pdf_culture 1
+%
+% temporary files: 0
+%
+%
+% commands: 42
+%
+\thisissectionseparator{-}%
+\thisisutilityversion{2008.10.14}%
+\initializevariable\usedoutputdriver{pdftex}%
+\twopassentry{floatdata}{1}{1::2}%
+\listentry{figure}{1}{1}{riz}{2--0-0-0-0-0-0-0--1}{2}%
+\twopassentry{floatdata}{2}{2::3}%
+\listentry{figure}{2}{2}{}{2--0-0-0-0-0-0-0--2}{3}%
+\twopassentry{floatdata}{3}{3::4}%
+\listentry{figure}{3}{3}{maïs}{2--0-0-0-0-0-0-0--3}{4}%
+\twopassentry{floatdata}{4}{4::5}%
+\listentry{figure}{4}{4}{maïs}{2--0-0-0-0-0-0-0--4}{5}%
+\twopassentry{floatdata}{5}{5::6}%
+\listentry{figure}{5}{5}{}{2--0-0-0-0-0-0-0--5}{6}%
+\twopassentry{floatdata}{6}{6::7}%
+\listentry{figure}{6}{6}{}{2--0-0-0-0-0-0-0--6}{7}%
+\twopassentry{floatdata}{7}{7::8}%
+\listentry{figure}{7}{7}{}{2--0-0-0-0-0-0-0--7}{8}%
+\twopassentry{floatdata}{8}{8::9}%
+\listentry{figure}{8}{8}{}{2--0-0-0-0-0-0-0--8}{9}%
+\twopassentry{floatdata}{9}{9::10}%
+\listentry{figure}{9}{9}{}{2--0-0-0-0-0-0-0--9}{10}%
+\twopassentry{floatdata}{10}{10::11}%
+\listentry{figure}{10}{10}{}{2--0-0-0-0-0-0-0--10}{11}%
+\twopassentry{floatdata}{11}{11::12}%
+\listentry{figure}{11}{11}{}{2--0-0-0-0-0-0-0--11}{12}%
+\twopassentry{floatdata}{12}{12::13}%
+\listentry{figure}{12}{12}{}{2--0-0-0-0-0-0-0--12}{13}%
+\twopassentry{floatdata}{13}{13::14}%
+\listentry{figure}{13}{13}{}{2--0-0-0-0-0-0-0--13}{14}%
+\twopassentry{floatdata}{14}{14::15}%
+\listentry{figure}{14}{14}{}{2--0-0-0-0-0-0-0--14}{15}%
+\twopassentry{floatdata}{15}{15::16}%
+\listentry{figure}{15}{15}{}{2--0-0-0-0-0-0-0--15}{16}%
+\initializevariable\usedcolorchannels{s}%
+\twopassentry{floatdata}{16}{16::17}%
+\listentry{figure}{16}{16}{}{2--0-0-0-0-0-0-0--16}{17}%
+\initializevariable\currentstrategypass{1}%
+\initializevariable\totalnofpositions{0}%
+\initializevariable\totalnofMPgraphics{0}%
+\initializevariable\totalnofparbackgrounds{0}%
+\initializevariable\lastpage{17}%
+\initializevariable\lastpagenumber{16}%
+%
+% programs: 0
+%
+\endinput

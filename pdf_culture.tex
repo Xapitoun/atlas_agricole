@@ -1,0 +1,120 @@
+
+\setupinteraction[state=start]%ne pas oublier cette ligne 
+%permet titres d'√™tre visible √† ouverture document
+
+\placebookmarks[chapter, section][chapter,section]
+\setupinteractionscreen[option=bookmark]
+\enableregime [utf-8]
+\enablemode[screen]
+\language[fr]
+%\setcharacterspacing[frenchpunctuation]
+\usemodule[french]
+\setuppapersize[landscape][letter]
+\mainlanguage [fr]
+\setupcolors[state=start]
+\setuphead[part][number=yes]
+\setuphead[chapter][number=yes]
+\setuphead[subsection][number=yes]
+\setuphead[subsubsection][number=no]%ne pas numeroter cette partie
+\setupquotation[style=bold,before=\blank, after=\blank]
+\setuplist[part]
+\setuplist[chapter][color=darkgreen]
+\setuplist[section]
+\setuplist[subsection]
+\defineframed [tightframed][autowidth=force,align=middle]
+\defineframed[exo][align=middle, backgroundcolor=green]
+\definedescription[objectif][location=left,headstyle=bold,width=broad]
+\starttext
+
+
+\startstandardmakeup 
+\midaligned{cours uniq} 
+\midaligned{}
+ \midaligned{}
+ \midaligned{Xavier L. Tardieu, Gaël Pressoir }
+\stopstandardmakeup
+
+\setupheadertexts[pagenumber]%en tete de page
+
+%\placecontent % cr√©ation table des mati√®res
+
+\placelist[part,chapter,section, subsection][alternative=c] %qui va dans table des mati√®res, avec quelle disposition
+\placefigure
+[][]
+{riz}
+{\externalfigure[c2/c2_p_t.jpeg]}
+\placefigure
+[][]
+{}
+{\externalfigure[c2/c2_s_tot.jpeg]}
+
+\placefigure
+[][]
+{maïs}
+{\externalfigure[c1/c1_p_t.jpeg]}
+
+\placefigure
+[][]
+{maïs}
+{\externalfigure[c1/c1_s_t.jpeg]}
+
+\placefigure
+[][]
+{}
+{\externalfigure[c4/c4_p_t.jpeg]}
+
+\placefigure
+[][]
+{}
+{\externalfigure[c4/c4_s_t.jpeg]}
+
+\placefigure
+[][]
+{}
+{\externalfigure[c4/c4_p_t.jpeg]}
+
+\placefigure
+[][]
+{}
+{\externalfigure[c4/c4_s_t.jpeg]}
+
+\placefigure
+[][]
+{}
+{\externalfigure[c6/c6_pc_tot.jpeg]}
+
+\placefigure
+[][]
+{}
+{\externalfigure[c6/c6_s_t.jpeg]}
+
+\placefigure
+[][]
+{}
+{\externalfigure[c7/c7_p_t.jpeg]}
+
+\placefigure
+[][]
+{}
+{\externalfigure[c7/c7_s_t.jpeg]}
+
+\placefigure
+[][]
+{}
+{\externalfigure[sorgho/c3_p_t.jpeg]}
+
+\placefigure
+[][]
+{}
+{\externalfigure[sorgho/c3_s_t.jpeg]}
+
+\placefigure
+[][]
+{}
+{\externalfigure[c9_choux/c4_p_t.jpeg]}
+
+\placefigure
+[][]
+{}
+{\externalfigure[c4/c4_s_t.jpeg]}
+\stoptext

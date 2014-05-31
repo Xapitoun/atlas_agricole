@@ -1,0 +1,15 @@
+% pdf_culture.top
+\unprotect
+\nonstopmode
+\def\MPOSTformatswitch{-progname=metafun -mem=}
+\setupsystem[\c!n=2,\c!m=3]
+\setupsystem[\c!method=2]
+\setupsystem[\c!type=linux]
+\setupsystem[\c!random=1209]
+\setupsystem[inputfile=pdf_culture.tex]
+\startsetups *runtime:options
+\setupoutput[pdftex]
+\stopsetups
+\startsetups *runtime:modules
+\stopsetups
+\protect \endinput
